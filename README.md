@@ -6,10 +6,16 @@ Base de conocimientos de conversaciones WhatsApp con clientes y hospitality part
 
 ```
 /chats
-  la-paloma-madrid.txt
-  ocean-club-marbella.txt
-  villa-azur-milan.txt
-  ...
+  El-copeo-de-tu-vida-ITA-PALENCIA.txt
+  GRUPO-PELICANO.txt
+  Kenko.txt
+  La-Cabane-Marbella.txt
+  Marina-Resort-Benidorm.txt
+  Mogli-The-Key.txt
+  Nightlife-Madrid.txt
+  O-Beach-Ibiza.txt
+  Recoletos-Jazz.txt
+  Sublim-Beach.txt
 ```
 
 Cada `.txt` es un export directo de WhatsApp (sin modificar) nombrado por el venue/cliente.
