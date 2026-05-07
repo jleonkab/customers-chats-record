@@ -1,0 +1,1735 @@
+13/6/23, 14:28 - Los mensajes y las llamadas están cifrados de extremo a extremo. Solo las personas en este chat pueden leerlos, escucharlos o compartirlos. *Más información*
+2/3/22, 17:20 - ‎~ Edgar creó el grupo "Kenko - Premiumguest".
+2/3/22, 17:20 - Se te añadió al grupo.
+9/6/23, 14:31 - Luis Premiumguest: Esperando este mensaje
+11/6/23, 13:02 - Beauty Experience Barcelona: Gracias 🙏
+11/6/23, 13:02 - Beauty Experience Barcelona: Quería hacerles una pregunta
+11/6/23, 13:02 - Beauty Experience Barcelona: Si trabajan con alguna plataforma
+11/6/23, 13:03 - Beauty Experience Barcelona: Que haga promoción en otros países de Europa
+11/6/23, 13:03 - Beauty Experience Barcelona: Por ejemplo como en Tenerife y Lanzarote que llegaban a través de tomaticket
+11/6/23, 15:32 - Andrea Premiumguest: Buenas! Trabajamos con la red de promocion, pero confirmo con el equipo cual es el alcance a nivel de Europa y os confirmo
+15/6/23, 0:16 - Beauty Experience Barcelona: Gracias 😃
+15/6/23, 0:25 - Kenko Eventos: Porfavor el evento del 11 de junio ... que no se realizo .. de los vanvan que lo bajamos la gente esta reclamando su devolución  y estan que nos perjudican...
+15/6/23, 0:25 - Kenko Eventos: Porque están escribiendo a nuestras redes
+15/6/23, 0:25 - Kenko Eventos: Y tildandonos de estafadores y mas
+15/6/23, 0:25 - Kenko Eventos: 😑😪
+15/6/23, 0:25 - Kenko Eventos: Saben si se procedió a la devolución de ello ?
+15/6/23, 0:26 - Jordi Reche: Hola! Reviso y os digo.
+15/6/23, 0:26 - Kenko Eventos: <Multimedia omitido>
+15/6/23, 0:28 - Jordi Reche: He visto que los pagos se realizaron con PayPal, tardan un poco más en llegar… mañana a primera hora revisan mis compañeros y os confirman. 👍🏼
+15/6/23, 0:29 - Kenko Eventos: Si porfavor
+15/6/23, 0:29 - Beauty Experience Barcelona: Ósea que ya se hicieron las devoluciones?
+15/6/23, 0:29 - Kenko Eventos: Que no queremos que nos perjudique para próximos eventos
+15/6/23, 0:29 - Kenko Eventos: El próximo es cubano también y tiene mucha aceptación no queremos que por eso se nos caiga
+15/6/23, 0:29 - Kenko Eventos: Gracias
+15/6/23, 0:29 - Jordi Reche: 👍🏼👍🏼
+15/6/23, 9:36 - Andrea Premiumguest: Buen dia! Lo revisamos
+15/6/23, 9:40 - Andrea Premiumguest: <Multimedia omitido>
+15/6/23, 9:40 - Andrea Premiumguest: <Multimedia omitido>
+15/6/23, 9:41 - Andrea Premiumguest: <Multimedia omitido>
+15/6/23, 9:43 - Kenko Eventos: Las que son del 11 de junio si porque ese evento no llegamos a realizar
+15/6/23, 9:47 - Andrea Premiumguest: <Multimedia omitido>
+15/6/23, 9:48 - Kenko Eventos: Muchas gracias
+15/6/23, 9:48 - Andrea Premiumguest: de nada!!🙏🏼
+15/6/23, 9:49 - Kenko Eventos: Una pregunta las del 9 de junio que si realizamos ..hicieron el ingreso a la cuenta nueva verdad ?
+15/6/23, 9:57 - Andrea Premiumguest: @⁨Lorena Bas⁩ Mi compañera Lorena te confirma esta informacion!
+27/6/23, 12:39 - Andrea Premiumguest: Hola equipo! Hemos implementado mejoras relacionadas con la seguridad del sistema y necesitamos que realicéis un cambio en vuestro hosting, os pasamos las indicaciones a seguir:
+
+Apuntar el subdominio con un registro del tipo “CNAME” al siguiente dominio: “whitelabel.premiumguest.net”
+Crea un "CNAME" con nombre "eventos" (puede que algún proveedor te pida que pongas "eventos.tudominio.es"), apuntando a “whitelabel.premiumguest.net”. Esta opción solo puede utilizarse con subdominios. Esto incluye que se puede hacer con "www.tudominio.es", ya que éste también es un subdominio. En el caso de "tudominio.es", éste no sería accesible y se tendría que crear una redirección hacia "www.tudominio.es" desde tu proveedor de dominios y crear el registro CNAME en "www.tudominio.es", ya que por el momento no ofrecemos soporte para este tipo de configuraciones con una redirección. Nosotros recomendamos siempre utilizar un subdominio distinto a "www" para no crear problemas de configuraciones así como para dar opción a tener una web a parte de la plataforma de venta de entradas. Éstos subdominios pueden ser tipo "entradas", "eventos", "tickets", "experiencias"...
+
+Por favor nos confirman cuando estén realizados los cambios, Cualquier duda quedamos a vuestra disposición!
+30/6/23, 14:35 - Andrea Premiumguest: Hola Oscar @⁨~Oscar⁩! que tal vais con este tema? Lo habeis podido mirar? Si teneis alguna duda o necesitais ayuda nos comentan, tenemos al equipo disponible para ayudarlos con ello. Es para mejorar la ciberseguridad y es obligatorio. Ya nos confirman!
+30/6/23, 14:53 - Kenko Eventos: Hola eso se encarga sharom le preguntafe luego
+30/6/23, 14:54 - Kenko Eventos: <Multimedia omitido>
+30/6/23, 14:59 - Andrea Premiumguest: @⁨+34 617 74 48 60⁩ Cuando tengais un momentito avisame y lo vemos? Te podemos ayudar con una llamada y no tardaria solo 5 minutos
+30/6/23, 14:59 - Andrea Premiumguest: vale, lo gestionamos. Seria para el evento del domingo 2 julio?
+30/6/23, 15:00 - Andrea Premiumguest: Si teneis el acceso al hosting lo podemos hacer nosotros en 5min, es importante asi que si necesitais ayuda nos comentan
+30/6/23, 15:00 - Kenko Eventos: Siii porfa
+30/6/23, 16:51 - Andrea Premiumguest: Vale, igualmente en la web aparece la direccion correcta
+30/6/23, 16:52 - Andrea Premiumguest: <Multimedia omitido>
+1/7/23, 23:18 - Kenko Eventos: <Multimedia omitido>
+2/7/23, 0:00 - Andrea Premiumguest: Buenas, verifico la web
+2/7/23, 0:00 - Kenko Eventos: Porfabor
+2/7/23, 0:00 - Kenko Eventos: Estamos perdiendo las ventas
+2/7/23, 0:01 - Andrea Premiumguest: <Multimedia omitido>
+2/7/23, 0:01 - Andrea Premiumguest: <Multimedia omitido>
+2/7/23, 0:01 - Andrea Premiumguest: La pagina y la pasarela de pagos esta funcionando correctamente
+2/7/23, 0:02 - Andrea Premiumguest: Si me facilitas una foto del error lo miro mejor
+2/7/23, 0:03 - Kenko Eventos: <Multimedia omitido>
+2/7/23, 0:11 - Andrea Premiumguest: no no te preocupes! Para eso estamos, para verificar que todo funcione correctamente. Si algun cliente tiene algun otro problema podrias decirle que te envie foto del error para poder verificar su caso
+2/7/23, 0:12 - Andrea Premiumguest: Tambien he comprobado y las ventas de entradas no estan limitadas
+2/7/23, 0:13 - Kenko Eventos: Si que esten hasta mañana hasta las 00hrs
+2/7/23, 0:18 - Andrea Premiumguest: hecho!
+2/7/23, 0:18 - Kenko Eventos: Gracias
+2/7/23, 12:38 - Kenko Eventos: Hola disculpen ... para preguntar se se mando el correo a todos los que compraron la entrada para hoy que será en la sala la chismosa escudellers 5 ...
+2/7/23, 12:38 - Kenko Eventos: Lo que pasa que cuando compraron  las entradas les dijimos que sería en safari
+2/7/23, 12:38 - Kenko Eventos: Para que despues no tengamos ese problema porfa
+2/7/23, 12:48 - Andrea Premiumguest: Buenas! Si el correo con la informacion de la ubicacion ha sido enviado a los compradores
+2/7/23, 12:49 - Kenko Eventos: Ayer ? Hoy ?
+2/7/23, 12:49 - Kenko Eventos: Es para estar seguro
+2/7/23, 12:49 - Kenko Eventos: Buenas perdon
+2/7/23, 12:49 - Kenko Eventos: Esque siempre se quejan de la ubicación
+2/7/23, 12:53 - Andrea Premiumguest: <Multimedia omitido>
+2/7/23, 12:55 - Kenko Eventos: Muchas gracias !!!
+2/7/23, 12:58 - Andrea Premiumguest: nada!
+2/7/23, 12:58 - Andrea Premiumguest: ☺️
+11/7/23, 12:06 - Kenko Eventos: Hola buenas
+11/7/23, 12:06 - Kenko Eventos: Porque sale finalizada en la web si tenemos hasta finales de julio ?
+11/7/23, 12:06 - Kenko Eventos: Porfa mirenlo
+11/7/23, 12:06 - Kenko Eventos: <Multimedia omitido>
+11/7/23, 12:06 - Kenko Eventos: La oferta era hasta finales verdad ?
+11/7/23, 12:06 - Clara Premiumguest: Buenas! lo revisamos enseguida
+11/7/23, 12:07 - Kenko Eventos: Gracias
+11/7/23, 12:08 - Clara Premiumguest: Es porque la hora dentro de los servicios está mal configurada
+11/7/23, 12:08 - Clara Premiumguest: Las modifico todas
+11/7/23, 12:09 - Clara Premiumguest: <Multimedia omitido>
+13/7/23, 14:46 - Luis Premiumguest: Buenas tardes!! Quería avisaros de que el lunes haremos una gran actualización de Premiumguest! 🥳 Aun así, he pensado en vosotros por si quereis empezar a utilizarla. El objetivo de esta nueva versión es que podáis gestionar todo de una forma mucho más comoda, con una mayor visualización de los datos y es más fácil de gestionar desde el móvil. Esta en fase beta, pero si quereis probarla, os comparto el link y cualquier feedback que tengáis, encantados de comentarlo! Espero que os guste!! https://app.next.premiumguest.com/v2/events/
+19/7/23, 13:18 - ‎Alex Premiumguest añadió a Estefanía Domínguez y Laura Morales.
+1/8/23, 10:44 - Kenko Eventos: Hola
+1/8/23, 10:45 - Kenko Eventos: Me dicen que las entradas no están disponibles en Barcelona
+1/8/23, 10:45 - Estefanía Domínguez: Buenos días, 
+Lo verificamos
+1/8/23, 10:45 - Kenko Eventos: Portavor  mírenlo
+1/8/23, 10:51 - Estefanía Domínguez: El del 10 ya estaría
+1/8/23, 10:52 - Kenko Eventos: Ummm  creo que se creo una oferta .. pero se tiene que poner creo
+1/8/23, 10:52 - Kenko Eventos: Preguntare a @⁨+34 617 74 48 60⁩
+1/8/23, 10:53 - Estefanía Domínguez: La venta la tenían finalizada para el 31 de julio
+1/8/23, 10:53 - Estefanía Domínguez: La he puesto para finales de agosto
+1/8/23, 10:53 - Kenko Eventos: Si era una oferta ...  que tenia puesto @⁨+34 617 74 48 60⁩   ...
+1/8/23, 10:54 - Estefanía Domínguez: Pues ya lo tienes en venta todod
+1/8/23, 10:58 - Kenko Eventos: Gracias ya si @⁨+34 617 74 48 60⁩  modifica algo lo puede hacer ella .. muchas gracias
+1/8/23, 10:59 - Estefanía Domínguez: Nada
+15/8/23, 12:20 - Beauty Experience Barcelona: Hola Buenos días 😃
+15/8/23, 12:20 - Beauty Experience Barcelona: Es posible que nos echen un cable subiendo un evento ?
+15/8/23, 12:21 - Beauty Experience Barcelona: <Multimedia omitido>
+15/8/23, 12:21 - Beauty Experience Barcelona: <Multimedia omitido>
+15/8/23, 12:21 - Beauty Experience Barcelona: <Multimedia omitido>
+15/8/23, 12:21 - Beauty Experience Barcelona: <Multimedia omitido>
+15/8/23, 12:21 - Beauty Experience Barcelona: <Multimedia omitido>
+15/8/23, 12:21 - Estefania Premiumguest: Buenos días, nos podeis pasar toda la información: Flyers, Descripción, Servicios, etc... 
+
+Mañana a primera hora mis compañeras lo gestionarán con todo ello.
+15/8/23, 12:21 - Estefania Premiumguest: Al ser  Festivo nacional solo estamos de guardia para incidencias, que pudieran surgir en el día de hoy.
+15/8/23, 12:23 - Estefania Premiumguest: Indíquenos tipos de entradas, precios y total de cada una de ellas, para que mañana a primera hora lo gestionen todo 
+
+Horario inicio y final del evento.
+15/8/23, 14:42 - Beauty Experience Barcelona: Vale muchas gracias
+16/8/23, 8:06 - Estefanía Domínguez: Buenos días, quedamos  la espera de la informaciñon que ha solicitado mi compañera para poder subir el evento a su web
+16/8/23, 8:08 - Beauty Experience Barcelona: Buenos días 😃
+16/8/23, 8:08 - Beauty Experience Barcelona: No te preocupes ya estoy en ello precisamente
+16/8/23, 8:26 - Estefanía Domínguez: Perfecto, cualquier cosilla me decis
+18/8/23, 12:26 - Kenko Eventos: Hola porfa podrían corregir
+18/8/23, 12:27 - Kenko Eventos: Que en Internet laex manga el 9 de septiembre en Bilbao  la entrada palco son 90€ y en Internet nos confundimos  y pusimos 100 ... porfa si podrían ayudarnos
+18/8/23, 12:27 - Kenko Eventos: <Multimedia omitido>
+18/8/23, 12:28 - Clara Premiumguest: Buenas! el palco no sería 100€ sino 90?
+18/8/23, 12:28 - Kenko Eventos: Siii
+18/8/23, 12:28 - Clara Premiumguest: Ya hay 7 entradas vendidas a 100€, no podemos devolver una parte del dinero😅
+18/8/23, 12:29 - Clara Premiumguest: Podríamos devolver el dinero de las entradas y que compren unas nuevas al precio correspondiente, o podrían canjear esos 10€ por una bebida por ejemplo <Se editó este mensaje.>
+18/8/23, 12:32 - Kenko Eventos: Eso ya lo reclamaron podemos darle un.cubata o algo en descuento
+18/8/23, 12:32 - Kenko Eventos: Estando alla
+18/8/23, 12:33 - Kenko Eventos: Cuando lo cambien porfa me avisan
+18/8/23, 12:33 - Kenko Eventos: Que tengo gente esperando si ?
+18/8/23, 12:33 - Kenko Eventos: Muchas gracias
+18/8/23, 12:33 - Clara Premiumguest: Ya modifiqué el precio a 90
+18/8/23, 12:33 - Kenko Eventos: Gracias
+18/8/23, 12:33 - Clara Premiumguest: <Multimedia omitido>
+18/8/23, 12:34 - Clara Premiumguest: Si quieren pueden preparar un texto informativo y lo enviamos a las personas que compraron las entradas a 100€
+18/8/23, 12:34 - Kenko Eventos: Gracias!!!
+18/8/23, 12:34 - Kenko Eventos: 🙃🙃🙃
+18/8/23, 12:35 - Kenko Eventos: No queremos que las devuelvan sino desciadran las reservas.. más si que nos indiquen quienes para hacerle el reembolso estando en la sala
+18/8/23, 12:35 - Clara Premiumguest: Se eliminó este mensaje.
+18/8/23, 12:38 - Clara Premiumguest: Parece que no llegaron a finalizar la compra de 100 ya que estaban esperando el cambio de precio
+18/8/23, 12:38 - Clara Premiumguest: De momento el precio ya está cambiado y las compras que entren serán a 90€
+18/8/23, 12:41 - Kenko Eventos: Oki
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: <Multimedia omitido>
+6/9/23, 14:40 - Beauty Experience Barcelona: Hola buenas tardes sería posible adjuntar estos códigos a la plataforma ?
+6/9/23, 15:00 - Andrea Premiumguest: Hola sharon, si podemos hacer la importacion, nos confirmas para cual evento?
+6/9/23, 21:58 - Beauty Experience Barcelona: Es el de Alex Manga y Jr Santiago
+6/9/23, 22:00 - Estefania Premiumguest: De acuerdo, lo gestionamos mañana por la mañana 🥰
+6/9/23, 22:12 - Beauty Experience Barcelona: Gracias 🙃
+7/9/23, 9:03 - Estefanía Domínguez: Buenos días, nos ponemos con ello
+7/9/23, 23:28 - Beauty Experience Barcelona: <Multimedia omitido>
+7/9/23, 23:28 - Beauty Experience Barcelona: Buenas noches les quería comentar si es posible separar las entradas importadas por localidad
+7/9/23, 23:33 - Luis Premiumguest: Buenas noches! 
+Al realizar la importación la plataforma las contabiliza en el apartado importaciones  por defecto debido a la vía utilizada para añadirlas.
+7/9/23, 23:33 - Luis Premiumguest: De igual manera, traslado tu consulta para que podamos explorar otras opciones de contabilización y maneras de que puedas tener la info de entradas desglosada.
+7/9/23, 23:34 - Beauty Experience Barcelona: Sii muchas gracias , en anteriores ocasiones al importarlas se separaban por lo calidad y eso nos ayudaba a tener un control
+7/9/23, 23:35 - Luis Premiumguest: claro, comprendo, tiene mucho sentido.
+7/9/23, 23:35 - Luis Premiumguest: Se lo comento al equipo para que lo vean en detalle
+7/9/23, 23:42 - Beauty Experience Barcelona: Gracias , el sábado es nuestro primer evento por eso…
+8/9/23, 9:11 - ‎Alex Premiumguest añadió a Ivanna Viejo.
+8/9/23, 9:34 - Andrea Premiumguest: Hola Sharon buenos dias, creo que en este caso no será posbile poder realizar el cambio, ya que implica la ayuda del equipo de tech y que son bastante importaciones, de todas formas lo consultaré con el equipo. En próximas oportunidades seria ideal si nos indicas con mas detalle como lo deseas y asi lo gestionamos de la mejor manera🙏🏼
+8/9/23, 9:36 - Beauty Experience Barcelona: Buenos días , lo dimos porsupuesto porque  en todos los eventos que hemos hecho las importaciones se han llevado de la misma forma .
+8/9/23, 9:36 - Andrea Premiumguest: Me podrias confirmar para cual evento es la importacion?
+8/9/23, 9:36 - Beauty Experience Barcelona: Esto nos dificulta bastante la tarea.
+8/9/23, 9:37 - Beauty Experience Barcelona: Son todos los eventos de Alex Manga y Jr Santiago
+8/9/23, 9:39 - Andrea Premiumguest: Si, lo entiendo pero siempre es mejor dejar todo claro igualmente para evitar confusiones. Igualmente ya lo comento con el equipo y os confirmo
+8/9/23, 9:47 - Andrea Premiumguest: Por confirmar cuando indicas "por localidad" te refieres separar las importaciones por VIP, General, Super VIp, etc... correcto?
+8/9/23, 9:49 - Beauty Experience Barcelona: Sii correcto
+8/9/23, 10:03 - Andrea Premiumguest: Vale! Hemos solicitado a tech nos elimine las importaciones hechas para volver a realizarlas de forma correcta. Ya te confirmo cuando este
+8/9/23, 12:34 - Andrea Premiumguest: <Multimedia omitido>
+8/9/23, 14:08 - Andrea Premiumguest: Ya estarian hechas todas las importaciones
+9/9/23, 1:59 - Beauty Experience Barcelona: Muchísimas gracias por la ayuda ♥️🙏
+9/9/23, 13:53 - Beauty Experience Barcelona: Hola Buenos días nos han reportado varías personas que intentan comprar las entradas de Barcelona pero no les deja . Del evento de Alex Manga
+9/9/23, 13:53 - Beauty Experience Barcelona: El caso esque yo he mirado la configuración y en principio está todo bien .
+9/9/23, 13:53 - Estefanía Domínguez: Buenas tardes, lo verifico en un momento y te digo que puede ser
+9/9/23, 13:53 - Beauty Experience Barcelona: <Multimedia omitido>
+9/9/23, 13:55 - Estefanía Domínguez: <Multimedia omitido>
+9/9/23, 13:56 - Estefanía Domínguez: A mí me ha dejado registrarme y llegar a ese punto
+9/9/23, 14:00 - Estefanía Domínguez: Tenéis las entradas algunas configuradas para que se cierre la venta mañana a las 14:45 la general y la vip, luego la super VIP que finaliza a las 23:15
+9/9/23, 23:30 - Beauty Experience Barcelona: Hola buenas noches
+9/9/23, 23:30 - Estefanía Domínguez: Buenas, con que puedo ayudarte?
+9/9/23, 23:31 - Beauty Experience Barcelona: Hemos tenido un problema con las entradas importadas , es decir parece que se han perdido unos talonarios y queremos saber si es posible anularlos .
+9/9/23, 23:31 - Beauty Experience Barcelona: 076 - 100 general
+076 - 100 vip
+076 - 100 palco
+
+Son esta numeración…
+9/9/23, 23:33 - Estefanía Domínguez: Está complicado así porque las importaciones van sin nombre y sin orden específico, necesitaríamos el QR
+9/9/23, 23:34 - Estefanía Domínguez: <Multimedia omitido>
+9/9/23, 23:34 - Estefanía Domínguez: <Multimedia omitido>
+9/9/23, 23:57 - Beauty Experience Barcelona: Entiendo ☹️
+9/9/23, 23:57 - Estefanía Domínguez: lo siento😕
+10/9/23, 0:00 - Estefanía Domínguez: <Multimedia omitido>
+10/9/23, 19:53 - Beauty Experience Barcelona: Hola buenas tardes estaba revisando la venta de entradas del evento hoy en Barcelona
+10/9/23, 19:53 - Beauty Experience Barcelona: Y me preguntaba si esto no se trata de un error
+10/9/23, 19:53 - Beauty Experience Barcelona: <Multimedia omitido>
+10/9/23, 19:53 - Estefanía Domínguez: Buenas tardes
+10/9/23, 19:53 - Beauty Experience Barcelona: Se podría verificar ?
+10/9/23, 19:54 - Estefanía Domínguez: Si lo verifico en un minuto
+10/9/23, 19:58 - Estefanía Domínguez: Tendríamos que verificarlo con nuestro departamento de tech, porque los correos de las entradas si son distintos, voy a pasar la información
+10/9/23, 20:00 - Beauty Experience Barcelona: Vale :)
+10/9/23, 20:05 - Estefanía Domínguez: si me dicen algo se los comento
+10/9/23, 20:09 - Beauty Experience Barcelona: Gracias 😀
+10/9/23, 20:09 - Estefanía Domínguez: De nada☺️
+10/9/23, 20:13 - Kenko Eventos: Hola
+10/9/23, 20:13 - Kenko Eventos: Pero tendríamos que saberlo lo antes posible
+10/9/23, 20:13 - Kenko Eventos: Antes de abrir puerta
+10/9/23, 20:14 - Kenko Eventos: Sino sería un caos
+10/9/23, 20:14 - Estefanía Domínguez: Las entradas no tendrían problema porque la ubicación esta correcta
+10/9/23, 20:14 - Kenko Eventos: Los códigos que se generaron?
+10/9/23, 20:15 - Estefanía Domínguez: Los códigos están correctos, lo único raro es que todos tienen el mismo nombre, pero como les he comentado anteriormente cada entrada va a asociada a un correo electrónico distinto
+10/9/23, 20:15 - Estefanía Domínguez: por lo que no creo que haya problemas a la hora de entrar
+10/9/23, 20:15 - Estefanía Domínguez: igualmente lo he notificado al grupo de emergencias, en lo que me digan algo os notifico
+10/9/23, 20:17 - Kenko Eventos: Esque también al llevar mesa esas entradas vip  se necesita tener claro que cuantas mesas tenemos que armar
+10/9/23, 20:27 - Estefanía Domínguez: <Multimedia omitido>
+10/9/23, 20:28 - Estefanía Domínguez: <Multimedia omitido>
+10/9/23, 20:30 - Estefanía Domínguez: igualmente estoy esperando respuesta
+10/9/23, 20:39 - Anxo: En principio las entradas de Alex Mejia están correctamente compradas y pagadas en distintas compras y con varios emails
+10/9/23, 20:40 - Kenko Eventos: Hola
+10/9/23, 20:40 - Kenko Eventos: Osea son 21 pers verdad ?
+10/9/23, 20:40 - Anxo: Si que es verdad, que es un poco raro, yo daría un aviso a puerta, por si acaso hubiera alguna intención de estafa o reventa... pero desde nuestro lado en principio está todo bien comprado
+10/9/23, 20:40 - Estefanía Domínguez: Con este correo ha comprado marianogar770pl@gmail.com 23 entradas y con este 27 farismenor0007@gmail.com
+10/9/23, 20:42 - Anxo: Yo, si me aceptáis el consejo, le pediría el dni y le haría una foto con disimulo, para que en cualquier reclamación posterior se pueda demostrar que estuvo en el evento...
+10/9/23, 20:43 - Anxo: Aparte de eso, lo que parece es alguien muy emocionado que ha comprado para uno o varios grupos 🤷‍♂️
+10/9/23, 20:43 - Anxo: Igual es su cumpleaños 😅
+10/9/23, 20:45 - Kenko Eventos: <Multimedia omitido>
+10/9/23, 20:47 - Estefanía Domínguez: Yo te enviaré ahora un Excel con las entradas y los horarios con los que realizó todas las compras y los separaré por correos y así no hay pérdidas
+10/9/23, 20:47 - Anxo: Nosotros, lo que vemos, lo vemos correcto. Preguntarle en la puerta y si hubiera algún problema lo único útil es poder demostrar que ha estado ahí.
+
+En principio, estafar pagos online es complicado porque hay el doble factor de validación. Hasta ahora no tenemos casos.
+10/9/23, 20:48 - Anxo: En cualquier caso, seguimos aquí por si hubiera algo que necesitéis ayuda
+10/9/23, 20:48 - Anxo: Suerte!
+10/9/23, 20:49 - Kenko Eventos: Gracias!!!
+10/9/23, 20:50 - Estefanía Domínguez: De nada☺️
+10/9/23, 20:55 - Estefanía Domínguez: <Multimedia omitido>
+13/9/23, 19:43 - Kenko Eventos: <Multimedia omitido>
+13/9/23, 19:43 - Kenko Eventos: Había comprado 2 entradas, pero por el problema que tuve con lo del correo, no me llegaron
+13/9/23, 19:43 - Kenko Eventos: Las palmas
+13/9/23, 19:43 - Kenko Eventos: Maria Yolanda Lozano Herrera
+13/9/23, 19:43 - Kenko Eventos: Hola
+13/9/23, 19:43 - Kenko Eventos: Tenemos un problema
+13/9/23, 19:45 - Estefania Premiumguest: Hola lo comprobamos
+13/9/23, 19:47 - Kenko Eventos: Vale gracias
+13/9/23, 19:49 - Estefania Premiumguest: <Multimedia omitido>
+13/9/23, 19:49 - Estefania Premiumguest: <Multimedia omitido>
+13/9/23, 19:49 - Estefania Premiumguest: Te he reenvio sus entradas, ya que su email le dio problemas anteriormente
+17/9/23, 13:52 - Beauty Experience Barcelona: Buenas tardes chicos :)
+17/9/23, 13:52 - Beauty Experience Barcelona: Una persona se equivocó de evento y compro las entradas para Barcelona pero el quería Madrid
+17/9/23, 13:53 - Beauty Experience Barcelona: Cómo podemos manejarlo ? Es decir la persona no quiero volver a pagar el suplemento de la compra .
+17/9/23, 13:55 - Andrea Premiumguest: Buenas Sharon, si nos facilitas los datos del clientes podemos hacer el cambio, si vosotros lo confirmáis
+17/9/23, 13:56 - Andrea Premiumguest: Cancelamos las entradas para Barcelona y le enviamos las de madrid
+17/9/23, 13:57 - Beauty Experience Barcelona: Te envío gracias :)
+17/9/23, 13:57 - Beauty Experience Barcelona: <Multimedia omitido>
+17/9/23, 14:00 - Andrea Premiumguest: Vale, ya lo gestiono y os confirmo
+17/9/23, 14:13 - Andrea Premiumguest: <Multimedia omitido>
+17/9/23, 14:18 - Kenko Eventos: Hola si
+17/9/23, 14:24 - Andrea Premiumguest: Veo que hay diferencias en el precio, igualmente hacemos el cambio?
+17/9/23, 14:29 - Andrea Premiumguest: La entrada General de Bcn indica 50€ y las Generales de Madrid 30€. Ya me confirman si seria correcto. Y si realizo el cambio
+17/9/23, 14:30 - Beauty Experience Barcelona: En este caso creo que le podríamos hacer la devolución a través de  un número de cuenta ya personalmente nosotros
+17/9/23, 14:32 - Kenko Eventos: Claroo la de bcn es más cara
+17/9/23, 14:35 - Andrea Premiumguest: Vale, procedo con el cambio
+17/9/23, 14:43 - Andrea Premiumguest: Ya estaria realizado y enviado el cambio de entradas.
+17/9/23, 15:06 - Beauty Experience Barcelona: Gracias 🧡
+17/9/23, 15:06 - Andrea Premiumguest: Nada!!
+18/9/23, 15:01 - Kenko Eventos: Lo que pasa esque no me da la opción de comprarlas
+18/9/23, 15:01 - Kenko Eventos: <Multimedia omitido>
+18/9/23, 15:01 - Kenko Eventos: Para ese día en Elche
+18/9/23, 15:01 - Kenko Eventos: En el resto de fechas si que me da la opción pero en la fecha de elche no
+18/9/23, 15:01 - Kenko Eventos: Hola buenas
+18/9/23, 15:03 - Estefania Premiumguest: Buenas tardes, lo comprobamos1
+18/9/23, 15:03 - Kenko Eventos: Vale gracias
+18/9/23, 15:05 - Estefania Premiumguest: <Multimedia omitido>
+18/9/23, 22:25 - Beauty Experience Barcelona: <Multimedia omitido>
+18/9/23, 22:26 - Beauty Experience Barcelona: Buenas noches
+18/9/23, 22:26 - Beauty Experience Barcelona: Me indican que no pueden comprar las entradas
+18/9/23, 22:28 - Ivanna Viejo: Buenas noches! 
+¿Ha probado el cliente a insertar el email sin la mayúscula inicial y comprobando que no haya espacios al final del email?
+18/9/23, 22:28 - Ivanna Viejo: sería perfecto si pudieran intentarlo con estas indicaciones por descartar
+18/9/23, 22:28 - Ivanna Viejo: si aún así tienen problemas de compra, por favor indícame datos de evento y la compra para intentar replicarlo y solucionarlo cuanto antes
+18/9/23, 22:28 - Ivanna Viejo: quedo atenta!
+19/9/23, 13:25 - Kenko Eventos: Hola
+19/9/23, 13:25 - Kenko Eventos: Buenas
+19/9/23, 13:25 - Kenko Eventos: Los promotores de todas las ciudades dicen que no les dejan comprar en la tiketera
+19/9/23, 13:25 - Kenko Eventos: Me acaba de escribir el de mallorca
+19/9/23, 13:30 - Luis Premiumguest: Revisamos!
+19/9/23, 13:36 - Luis Premiumguest: He comprobado en varios eventos y tal y todos funcionan correctamente a través de la web general https://eventos.kenkotickets.com/es/
+19/9/23, 13:36 - Luis Premiumguest: Tienes el enlace que están utilizando ellos para probar?
+19/9/23, 13:38 - Kenko Eventos: Eventos.kenkotickets.com
+19/9/23, 13:42 - Luis Premiumguest: Esa dirección es la que he comprobado y está funcionando correctamente, además se están vendiendo entradas. Por lo que tiene que ser algo específico del dispositivo que este utilizando él, si puede enviarte alguna captura de pantalla de lo que le aparece
+19/9/23, 13:45 - Kenko Eventos: Se los diré pero siempre.. llaman a reclamar 😅
+19/9/23, 13:46 - Luis Premiumguest: Ya, pero no encontramos ningún error, está funcionando correctamente. No sé si puede deber a su conexión o algo así
+19/9/23, 16:43 - Kenko Eventos: El correo es caszulu75@gmail.com
+19/9/23, 16:43 - Kenko Eventos: Diego Fernando Zuluaga Castrillón
+19/9/23, 16:44 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 16:45 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 16:45 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 16:45 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 16:45 - Laura Morales: Hola! Lo verificamos
+19/9/23, 16:45 - Laura Morales: justo aquí debería haber pulsado descargar tickets
+19/9/23, 16:46 - Laura Morales: localizadas, se las vuelvo a reenviar
+19/9/23, 16:47 - Laura Morales: Reenviadas!
+19/9/23, 21:13 - Kenko Eventos: Diego Fernando Zuluaga Castrillón. El correo es. Caszulu75@gmail.com
+19/9/23, 21:13 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 21:13 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 21:13 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 21:13 - Kenko Eventos: Este fue el que no me dejó descargar. Las entradas
+19/9/23, 21:13 - Kenko Eventos: <Multimedia omitido>
+19/9/23, 21:14 - Constanza CoverExperiences: Revisamos!
+19/9/23, 21:14 - Kenko Eventos: Gracias
+19/9/23, 21:18 - Constanza CoverExperiences: Ya le hemos reenviado las entradas!
+19/9/23, 21:19 - Constanza CoverExperiences: <Multimedia omitido>
+19/9/23, 21:19 - Constanza CoverExperiences: <Multimedia omitido>
+19/9/23, 21:20 - Constanza CoverExperiences: Te las reenvío por aquí, porque he visto que mi compañera la ha reenviado antes y no le ha llegado al correo.
+19/9/23, 21:20 - Kenko Eventos: Vale muchas gracias
+22/9/23, 14:39 - Constanza CoverExperiences: ¡Buenas tardes! 😄
+Quería aprovechar para compartir con vosotros todas las nuevas funcionalidades que hemos lanzado recientemente y las emocionantes novedades que tenemos planeadas para los próximos meses 🚀🔥 
+Hemos estado trabajando duro para mejorar tu experiencia con nuestra plataforma. Hemos añadido nuevas funcionalidades que esperamos que os vayan a encantar.
+Pero eso no es todo, ¡tenemos más sorpresas en camino! Durante los meses de septiembre a noviembre, vamos a lanzar aún más funcionalidades para que disfrutes al máximo de Premiumguest. 🎉
+Estamos emocionados por compartir todas estas novedades contigo. Si tienes alguna pregunta o sugerencia, no dudes en hacérnoslo saber. ¡Tu opinión es muy importante para nosotros!
+¡Gracias por ser parte de la familia Premiumgest! ☺✨
+22/9/23, 14:40 - Constanza CoverExperiences: <Multimedia omitido>
+22/9/23, 14:40 - Constanza CoverExperiences: <Multimedia omitido>
+25/9/23, 11:27 - Kenko Eventos: Solo me deja escoger 1 no me da opción de subir la cantidad de personas
+25/9/23, 11:28 - Kenko Eventos: Hola esto en entradas online palco
+25/9/23, 11:28 - Kenko Eventos: <Multimedia omitido>
+25/9/23, 11:28 - Laura Morales: Hola! Revisamos
+25/9/23, 11:29 - Laura Morales: De que evento se trata?
+25/9/23, 11:29 - Kenko Eventos: Barcelona  maelo ruis y luisito carrion
+25/9/23, 11:31 - Laura Morales: Esta limitado a 1 por compra
+25/9/23, 11:31 - Laura Morales: Pero podemos ampliarlo
+25/9/23, 11:31 - Kenko Eventos: No puede la opción de aumentar 1 o 5 así?
+25/9/23, 11:31 - Kenko Eventos: Porfa
+25/9/23, 11:31 - Laura Morales: Si, lo ponemos en 5
+25/9/23, 11:32 - Kenko Eventos: Osea si clicando al más puede poner 4 entradas y se hace la suma de 480 y eso
+25/9/23, 11:32 - Kenko Eventos: En todas si?
+25/9/23, 11:32 - Laura Morales: Si, ya lo tienes en este evento, pero si quieres lo añadimos a todos
+25/9/23, 11:40 - Kenko Eventos: A todos porfavor
+25/9/23, 11:41 - Laura Morales: de acuerdo, procedo a cambiarlos
+25/9/23, 11:45 - Laura Morales: Listo!
+25/9/23, 11:50 - Kenko Eventos: Gracias
+25/9/23, 11:50 - Laura Morales: De nada :)
+2/10/23, 11:34 - Andrea Premiumguest: Hola Sharon buen dia @⁨+34 617 74 48 60⁩, habeis podido mirar el tema del contrato? Si teneis alguna duda me comentan
+3/10/23, 17:11 - Andrea Premiumguest: <Multimedia omitido>
+3/10/23, 17:11 - Andrea Premiumguest: <Multimedia omitido>
+3/10/23, 21:46 - Beauty Experience Barcelona: Hola Andrea estoy revisando ahora el correo y me fijo :)
+4/10/23, 1:36 - Beauty Experience Barcelona: <Multimedia omitido>
+4/10/23, 1:37 - Beauty Experience Barcelona: <Multimedia omitido>
+4/10/23, 1:37 - Beauty Experience Barcelona: <Multimedia omitido>
+4/10/23, 1:37 - Beauty Experience Barcelona: <Multimedia omitido>
+4/10/23, 1:37 - Beauty Experience Barcelona: <Multimedia omitido>
+4/10/23, 1:37 - Beauty Experience Barcelona: <Multimedia omitido>
+4/10/23, 1:38 - Beauty Experience Barcelona: Buenas noches me disculpa la hora , era para saber si es posible mañana importar estos códigos . De forma que estén importadas según la localidad ( general ,vip , etc ) para poder llevar un control , gracias :)
+4/10/23, 1:40 - Ivanna Viejo: Buenas noches Sharon, gracias por los info.
+Mañana mis compañeros te comentan a la mayor brevedad posible.
+4/10/23, 9:05 - Laura Morales: Buenos días! Nos ponemos con las importaciones
+4/10/23, 14:22 - Laura Morales: Ya estarían todas las importaciones realizadas
+6/10/23, 18:29 - Kenko Eventos: Hola están  teniendo problemas en elche para comprar entradas
+6/10/23, 18:30 - Kenko Eventos: No les dejan validar sus correos de las personas
+6/10/23, 18:31 - Estefania Premiumguest: Hola Óscar lo comprobamos
+6/10/23, 18:31 - Kenko Eventos: Hola si porfa
+6/10/23, 18:34 - Estefania Premiumguest: <Multimedia omitido>
+6/10/23, 18:35 - Estefania Premiumguest: Por favor, puedes pedirles captura de pantalla para saber que les ocurre
+6/10/23, 18:35 - Estefania Premiumguest: <Multimedia omitido>
+6/10/23, 18:41 - Kenko Eventos: Vale que raro ya les digo
+6/10/23, 18:44 - Estefania Premiumguest: De acuerdo Óscar, avísanos con lo que sea
+6/10/23, 23:57 - Kenko Eventos: Hola
+6/10/23, 23:57 - Kenko Eventos: Perdonen hay 4 personas
+6/10/23, 23:57 - Kenko Eventos: Que pagaron  4 vip y no genero codigo
+6/10/23, 23:57 - Kenko Eventos: Magdalena pardo
+6/10/23, 23:57 - Luis Premiumguest: Nos puedes dar sus datos y comprobamos enseguida
+6/10/23, 23:58 - Kenko Eventos: <Multimedia omitido>
+6/10/23, 23:59 - Luis Premiumguest: <Multimedia omitido>
+6/10/23, 23:59 - Luis Premiumguest: Está correcto
+6/10/23, 23:59 - Kenko Eventos: No le genero el codigo
+6/10/23, 23:59 - Kenko Eventos: Pueden mandarle a su correo
+6/10/23, 23:59 - Luis Premiumguest: <Multimedia omitido>
+6/10/23, 23:59 - Luis Premiumguest: Le reenvio
+7/10/23, 0:00 - Kenko Eventos: Porfa
+7/10/23, 0:00 - Luis Premiumguest: Reenviado! Le ha llegado?
+7/10/23, 0:00 - Luis Premiumguest: Que revisen si es ese el correo correcto, si no puedo yo mismo validar las entradas
+7/10/23, 0:01 - Kenko Eventos: <Multimedia omitido>
+7/10/23, 0:01 - Kenko Eventos: <Multimedia omitido>
+7/10/23, 0:01 - Luis Premiumguest: Será por su correo, puedo enviarte por aqui las entradas en pdf
+7/10/23, 0:01 - Luis Premiumguest: O a otro correo
+7/10/23, 0:02 - Beauty Experience Barcelona: El link de las entradas pueden enviar?
+7/10/23, 0:02 - Kenko Eventos: <Multimedia omitido>
+7/10/23, 0:02 - Luis Premiumguest: les falta el 168 no lo puso asi
+7/10/23, 0:02 - Luis Premiumguest: lo corrigo y envio
+7/10/23, 0:02 - Kenko Eventos: Si
+7/10/23, 0:04 - Luis Premiumguest: Hecho, les llego ahora?
+7/10/23, 0:04 - Kenko Eventos: <Multimedia omitido>
+7/10/23, 0:04 - Kenko Eventos: No no ha llegado nada
+7/10/23, 0:05 - Luis Premiumguest: https://app.premiumguest.com/v2/tools-requests-order/f2ed999ffb7a4b079e4d3df3e834359c/
+7/10/23, 0:05 - Luis Premiumguest: con ese link pueden descargarsela
+7/10/23, 0:05 - Luis Premiumguest: Si lo necesitas te llamo
+7/10/23, 0:05 - Kenko Eventos: Si llamame porfa
+7/10/23, 0:28 - Kenko Eventos: Gracias
+7/10/23, 19:41 - Beauty Experience Barcelona: Buenas noches hoy tenemos un evento y estaba revisando y falto importar los códigos .
+7/10/23, 19:41 - Beauty Experience Barcelona: Es posible hacerlo para esta hora ?
+7/10/23, 19:42 - Luis Premiumguest: Si, envianos los códigos y nos encargamos
+7/10/23, 19:44 - Beauty Experience Barcelona: <Multimedia omitido>
+7/10/23, 19:44 - Beauty Experience Barcelona: Gracias 🙏
+7/10/23, 19:45 - Beauty Experience Barcelona: Si pudiera ser separado de localidad 🙏
+7/10/23, 20:00 - Luis Premiumguest: Ya teneis las entradas importadas por separado
+7/10/23, 20:12 - Beauty Experience Barcelona: Muchas gracias ya me aparecen :)
+7/10/23, 20:12 - Luis Premiumguest: estupendo!
+7/10/23, 20:14 - Beauty Experience Barcelona: Luis disculpa
+7/10/23, 20:14 - Beauty Experience Barcelona: Tengo otra duda
+7/10/23, 20:15 - Beauty Experience Barcelona: <Multimedia omitido>
+7/10/23, 20:15 - Beauty Experience Barcelona: <Multimedia omitido>
+7/10/23, 20:15 - Beauty Experience Barcelona: Esque he dado de alta
+7/10/23, 20:16 - Beauty Experience Barcelona: A 2 promotores
+7/10/23, 20:16 - Luis Premiumguest: si, dime
+7/10/23, 20:17 - Beauty Experience Barcelona: Pero cada vez que le doy a la llave se vuelve a apagar
+7/10/23, 20:18 - Beauty Experience Barcelona: Entiendo que es con esto que ellos pueden acceder q los eventos verdad.
+7/10/23, 20:18 - Beauty Experience Barcelona: ?
+7/10/23, 20:18 - Beauty Experience Barcelona: Porque no le salen
+7/10/23, 20:18 - Luis Premiumguest: La llave es para que accedan a ver las ventas de todas las personas de ese grupo, sin la lleva solo verían sus ventas
+7/10/23, 20:18 - Luis Premiumguest: Pero te debe de dejar seleccionarla sin problema
+7/10/23, 20:22 - Beauty Experience Barcelona: Creo que me expliqué mal
+7/10/23, 20:22 - Beauty Experience Barcelona: Me refería a que puedan acceder
+7/10/23, 20:22 - Beauty Experience Barcelona: A los eventos para la app de escaneo
+7/10/23, 20:25 - Luis Premiumguest: Ah disculpa, ya les he dado yo la llave para que puedan acceder con todos los permisos
+7/10/23, 20:35 - Beauty Experience Barcelona: Gracias :)
+7/10/23, 21:18 - Beauty Experience Barcelona: Ya cerré sesión
+7/10/23, 21:18 - Beauty Experience Barcelona: <Multimedia omitido>
+7/10/23, 21:18 - Beauty Experience Barcelona: Volví a entrar
+7/10/23, 21:18 - Beauty Experience Barcelona: Y nada
+7/10/23, 21:18 - Beauty Experience Barcelona: <Multimedia omitido>
+7/10/23, 21:19 - Beauty Experience Barcelona: 🥺🥺🥺
+7/10/23, 21:20 - Luis Premiumguest: Puede revisar ahora?
+9/10/23, 18:59 - Kenko Eventos: <Multimedia omitido>
+9/10/23, 18:59 - Kenko Eventos: <Multimedia omitido>
+9/10/23, 18:59 - Kenko Eventos: Hola tiene un problema mo le deja descargar
+9/10/23, 18:59 - Kenko Eventos: <Multimedia omitido>
+9/10/23, 18:59 - Estefania Premiumguest: Hola, lo verificamos
+9/10/23, 19:00 - Estefania Premiumguest: ¿tienes su email?
+9/10/23, 19:01 - Kenko Eventos: johita22@hotmail.con
+9/10/23, 19:02 - Estefania Premiumguest: Perfecto, lo comprobamos
+9/10/23, 19:02 - Kenko Eventos: Gracias
+9/10/23, 19:09 - Estefania Premiumguest: Le hemos reenviado todas las entradas que ha comprado!
+9/10/23, 19:09 - Kenko Eventos: Muchas gracias
+9/10/23, 20:09 - Kenko Eventos: johita22@hotmail.com
+9/10/23, 20:09 - Kenko Eventos: Hola no les llega aun
+9/10/23, 20:10 - Constanza CoverExperiences: Hola, buenas tardes! Lo revisamos
+9/10/23, 20:10 - Kenko Eventos: Gracias
+9/10/23, 20:10 - Kenko Eventos: Este es el correo
+9/10/23, 20:14 - Constanza CoverExperiences: Listo, al registrarse pusieron una letra mal en el correo, ya se las he enviado a johita22@hotmail.com
+9/10/23, 20:14 - Constanza CoverExperiences: Cualquier cosa nos avisan de todas formas!
+9/10/23, 20:24 - Kenko Eventos: Nos a llegado solo una
+9/10/23, 20:24 - Kenko Eventos: Solo les llegó una dicen
+9/10/23, 20:24 - Estefania Premiumguest: Se las enviamos!
+9/10/23, 20:26 - Estefania Premiumguest: <Multimedia omitido>
+9/10/23, 20:26 - Estefania Premiumguest: Reenviadas nuevamente las 5 entradas!
+9/10/23, 20:28 - Kenko Eventos: Gracias
+9/10/23, 22:05 - Beauty Experience Barcelona: Buenas noches
+9/10/23, 22:05 - Beauty Experience Barcelona: tenemos un problema
+9/10/23, 22:06 - Beauty Experience Barcelona: esque creo que ya hace 1 año
+9/10/23, 22:08 - Ivanna Viejo: Buenas noches
+9/10/23, 22:08 - Ivanna Viejo: disculpa, no comprendo
+9/10/23, 22:09 - Beauty Experience Barcelona: perdona esque
+9/10/23, 22:09 - Beauty Experience Barcelona: me informaron de algo pero ahora parece que todo esta correcto
+9/10/23, 22:09 - Ivanna Viejo: ok, no te preocupes, con cualquier cosa aquí estamos
+11/10/23, 23:19 - ‎Kenko Eventos inició una llamada.
+11/10/23, 23:20 - ‎Kenko Eventos inició una llamada.
+11/10/23, 23:17 - Kenko Eventos: Hola
+11/10/23, 23:17 - Kenko Eventos: Porfaa
+11/10/23, 23:17 - Kenko Eventos: El correo
+11/10/23, 23:18 - Kenko Eventos: Dianarenteriaval1102@gmail.com
+11/10/23, 23:18 - Kenko Eventos: Tiene  2 entradas palco para madrid
+11/10/23, 23:18 - Kenko Eventos: Y solo tenía 1 código
+11/10/23, 23:19 - Kenko Eventos: Alguien puede solucionar
+11/10/23, 23:20 - Kenko Eventos: Hola porfaaa que están que se ponen violentos
+11/10/23, 23:20 - Ivanna Viejo: en ello
+11/10/23, 23:20 - Kenko Eventos: Gracias
+11/10/23, 23:22 - Ivanna Viejo: <Multimedia omitido>
+11/10/23, 23:23 - Ivanna Viejo: una ya aparece como escaneada
+11/10/23, 23:23 - Kenko Eventos: Solo 1
+11/10/23, 23:23 - Kenko Eventos: Entonces son dos ?
+11/10/23, 23:25 - Ivanna Viejo: <Multimedia omitido>
+16/10/23, 17:46 - Beauty Experience Barcelona: Buenas tardes  una pregunta cuando hacen el ingreso de los eventos de la semana pasada ?
+16/10/23, 17:47 - Andrea Premiumguest: Buenas Sharon
+16/10/23, 17:47 - Andrea Premiumguest: En principio el pago de los eventos se estaria realizando el dia hoy
+16/10/23, 17:47 - Andrea Premiumguest: Igualmente consulto con el equipo de facturación y os confirmo
+16/10/23, 17:48 - Andrea Premiumguest: Por cierto, has podido revisar el tema del contrato que te envie hace un par de semanas? Cualquier duda me comentas🙏🏼
+16/10/23, 17:49 - Andrea Premiumguest: Me confirmas si solo esta pendiente los eventos de los dias 11, 13 y 14 de octubre correcto?
+16/10/23, 18:00 - Beauty Experience Barcelona: Si correcto .
+16/10/23, 18:00 - Beauty Experience Barcelona: Me lo podrías volver a enviar ?
+16/10/23, 18:04 - Andrea Premiumguest: De acuerdo, ya solicite información. Pero lo comentado, seguramente el pago ha sido gestionado el dia de hoy. Igualmente os confirmo lo antes posible
+16/10/23, 18:04 - Andrea Premiumguest: De acuerdo, mañana por la mañana te lo vuelvo a facilitar
+16/10/23, 18:04 - Andrea Premiumguest: Me confirmas el mail porfa
+16/10/23, 18:09 - Beauty Experience Barcelona: Info@grupodcarpio.com
+16/10/23, 18:09 - Beauty Experience Barcelona: Por otra lado quería preguntar
+16/10/23, 18:09 - Beauty Experience Barcelona: Por ejemplo
+16/10/23, 18:09 - Beauty Experience Barcelona: De las personas que han comprado entradas
+16/10/23, 18:09 - Beauty Experience Barcelona: En Tenerife
+16/10/23, 18:10 - Beauty Experience Barcelona: Cómo podemos mandarles a su correo publicidad de los eventos próximos que tenemos ?
+16/10/23, 18:11 - Constanza CoverExperiences: Podemos preparar una newslatter con la información que nos indiquen y enviarla a esos clientes
+16/10/23, 18:12 - Beauty Experience Barcelona: Ohh superrr
+16/10/23, 18:12 - Beauty Experience Barcelona: Pues es en referencia a los 3 próximos eventos que tenemos en cada ciudad .
+16/10/23, 18:12 - Beauty Experience Barcelona: Con el flyer bastaría ?
+16/10/23, 18:13 - Constanza CoverExperiences: Texto, imágen, con lo que nos digan podemos prepararlo y enviarles test para que vean como quedaría!
+16/10/23, 20:22 - Beauty Experience Barcelona: Genial 🙂
+17/10/23, 9:29 - Andrea Premiumguest: Buenas @⁨+34 617 74 48 60⁩  me confirman que el pago se realizó el día de ayer. Ahora os facilitamos el comprobante
+17/10/23, 10:36 - Andrea Premiumguest: Tambien me confirman que te han reenviado el contrato, de igual manera te voy a facilitar por privado un link de acceso al mismo. @⁨+34 617 74 48 60⁩
+17/10/23, 11:27 - Beauty Experience Barcelona: Gracias 🙂
+17/10/23, 11:27 - Beauty Experience Barcelona: Sii lo hemos revisado pero han ingresado 700€ menos
+17/10/23, 11:28 - Beauty Experience Barcelona: Con quien nos debemos comunicar para resvisar los pagos ?
+17/10/23, 11:35 - Luis Premiumguest: Buenas Sharon! Estamos revisando los pagos y enseguida nos comunicamos con ustedes para explicar el motivo
+17/10/23, 11:38 - Andrea Premiumguest: Lo comento con el equipo de administracion para que lo mire!
+17/10/23, 13:43 - Kenko Eventos: Elisabel Lara Cabrera 
+2 entrada.
+17/10/23, 13:43 - Kenko Eventos: <Multimedia omitido>
+17/10/23, 13:44 - Kenko Eventos: Hola un problema que no les llega el código a esta persona .. me pueden ayudar
+17/10/23, 13:44 - Clara Premiumguest: Buenas! claro, lo revisamos
+17/10/23, 13:44 - Kenko Eventos: Gracias
+17/10/23, 13:45 - Clara Premiumguest: De nada!
+17/10/23, 13:46 - Clara Premiumguest: Para qué evento ha realizado la compra?
+17/10/23, 13:50 - Kenko Eventos: Para barcelona 27 de octu
+17/10/23, 13:51 - Clara Premiumguest: <Multimedia omitido>
+17/10/23, 13:52 - Kenko Eventos: Pero dice que si que le descontaron de la cuenta y esl
+17/10/23, 13:57 - Clara Premiumguest: Ya debe de tener el dinero en la cuenta de vuelta es imposible que se haya cobrado ese dinero
+17/10/23, 13:57 - Clara Premiumguest: La compra no sé finalizó por tanto ese dinero no ha sido cobrado
+17/10/23, 13:58 - Clara Premiumguest: De haberse cobrado ese dinero tendría las entradas correspondientes en su correo
+17/10/23, 13:58 - Kenko Eventos: Ok
+17/10/23, 14:00 - Clara Premiumguest: Creo que completó todos los datos de forma correcta pero no acepto el mensaje de compra que te llega a la aplicación del banco por seguridad
+18/10/23, 13:24 - Andrea Premiumguest: Buenas @⁨+34 617 74 48 60⁩ Desde administración me confirman que ya ha sido solucionado el tema del pago y se ha enviado la factura. cualquier duda me comentas
+18/10/23, 13:25 - Kenko Eventos: Hola buenas
+18/10/23, 13:25 - Kenko Eventos: Gracias
+18/10/23, 13:25 - Kenko Eventos: Una pregunta
+18/10/23, 13:25 - Kenko Eventos: Ustedes creen que con los datos que se tiene de los correos
+18/10/23, 13:25 - Kenko Eventos: Como ya hicimos varios eventos
+18/10/23, 13:26 - Kenko Eventos: Para la ciudades 
+De barcelona 
+Bilbao
+Y Tenerife 
+Se puede ... mandar a los correos de los clientes en  cada una de estas ciudades ?  Con la base de datos claro .. de clientes suyos en barcelona
+Bilbao y Tenerife
+18/10/23, 13:27 - Kenko Eventos: Esque estamos teniendo muy pocas compras online en esas ciudades...
+18/10/23, 13:27 - Kenko Eventos: Y estamos preocupados
+18/10/23, 13:27 - Beauty Experience Barcelona: Nos dijeron que les mandemos la Info que queríamos hacer llegar
+18/10/23, 13:27 - Andrea Premiumguest: buenas Oscar
+18/10/23, 13:27 - Beauty Experience Barcelona: Gracias 🙏
+18/10/23, 13:27 - Kenko Eventos: Buenas
+18/10/23, 13:27 - Andrea Premiumguest: si, si podemos segmentar y enviar un mailing a cada bbdd correspondiente para cada ciudad
+18/10/23, 13:28 - Andrea Premiumguest: Correcto! nos envian la info que quieren enviar y la preparamos
+18/10/23, 13:30 - Beauty Experience Barcelona: Tenerife 
+
+Este mes de Octubre en la víspera del Día de todos Los Santos ( 31 de Octubre)  nos visitarán dos grandes exponentes de la Salsa Maelo Ruiz y Lusito Carrión cantando todos sus éxitos. Será una noche donde además daremos lugar a la fiesta de Halloween , ya que podrás participar por premios en metálico y Meet & Greet con los artistas si llevas el mejor disfraz.
+18/10/23, 13:35 - Andrea Premiumguest: Vale lo voy preparando
+18/10/23, 13:35 - Kenko Eventos: Muchas gracias
+18/10/23, 13:35 - Kenko Eventos: Estamos preocupados porque ... normalmente esas ciudades siempre se vuelcan con la compra online
+18/10/23, 13:36 - Beauty Experience Barcelona: Y bueno no sé si aquí añadir los datos del recinto o ya aparte ?
+18/10/23, 13:40 - Beauty Experience Barcelona: Bilbao , el  próximo 20 de Octubre nos visitarán endos grandes exponentes de la Salsa , Maelo Ruiz y Lusito Carrión cantando todos sus éxitos. El evento tendrá lugar en Sala Santana en la conocida Sala Santana 27 . Tendrás la oportunidad de ver compartir en tarima a dos artistas con un Show Salsero nunca antes visto en España . Compra tus entradas , para corear juntos canciones como “Te va a doler “ , “Yare” ,  “ Mi mundo es de ella “ y “ Fuego en el 23” .
+18/10/23, 13:40 - Beauty Experience Barcelona: Tenerife 
+
+Este mes de Octubre en la víspera del Día de todos Los Santos ( 31 de Octubre)  nos visitarán dos grandes exponentes de la Salsa Maelo Ruiz y Lusito Carrión cantando todos sus éxitos. 
+El evento tendrá lugar en “ El Castillo de San Miguel”. 
+
+Será una noche donde además daremos lugar a la fiesta de Halloween , ya que podrás participar por premios en metálico y Meet & Greet con los artistas si llevas el mejor disfraz.
+18/10/23, 13:41 - Beauty Experience Barcelona: Barcelona , el  próximo 27 de Octubre nos visitarán dos grandes exponentes de la Salsa , Maelo Ruiz y Lusito Carrión cantando todos sus éxitos. El evento tendrá lugar en La Chismosa Barcelona  . Tendrás la oportunidad de ver compartir en tarima a dos artistas con un Show Salsero nunca antes visto en España . Compra tus entradas , para corear juntos canciones como “Te va a doler “ , “Yare” ,  “ Mi mundo es de ella “ y “ Fuego en el 23” .
+18/10/23, 13:46 - Andrea Premiumguest: Lo estoy preparando y os envio test. Me confirman si puedo enviar el tets al siguiente mail Info@grupodcarpio.com <Se editó este mensaje.>
+18/10/23, 13:47 - Beauty Experience Barcelona: Súper :)
+18/10/23, 13:56 - Andrea Premiumguest: Test de tenerife enviado, si os gusta el diseño lo preparo igual para el resto
+18/10/23, 13:56 - Andrea Premiumguest: o si quieren modificar algo me comentan
+18/10/23, 13:58 - Beauty Experience Barcelona: Me gusta , lo que en el título se pondría poner Evento Salsero - Noche de Halloween - Tenerife o algo así que quede bien
+18/10/23, 13:58 - Beauty Experience Barcelona: Porque la introducción que puse es algo “larga” así la gente toma interés para leer
+18/10/23, 14:00 - Andrea Premiumguest: Vale, ya lo modifico!
+18/10/23, 14:06 - Andrea Premiumguest: te envie nuevo test
+18/10/23, 14:13 - Beauty Experience Barcelona: Lo acabo de ver falto solo Tenerife
+18/10/23, 14:14 - Beauty Experience Barcelona: En el asunto pone el nombre de los cantantes cuando les llega verdad ?
+18/10/23, 14:16 - Andrea Premiumguest: agregado
+18/10/23, 14:17 - Andrea Premiumguest: <Multimedia omitido>
+18/10/23, 15:02 - Beauty Experience Barcelona: Súper
+18/10/23, 15:06 - Andrea Premiumguest: Ya tengo las bbdd de cada uno preparadas. Te envio test de Bilbao y Bcn y ya me confirmas cuando enviarlas
+18/10/23, 15:07 - Andrea Premiumguest: Enviados
+18/10/23, 15:09 - Beauty Experience Barcelona: Están perfectas
+18/10/23, 15:13 - Andrea Premiumguest: Genial, cuando las quereis enviar?
+18/10/23, 15:26 - Beauty Experience Barcelona: Hoy mismo estaría genial
+18/10/23, 15:28 - Andrea Premiumguest: Genial, lo dejo programado a las 16h? te parece bien?
+18/10/23, 15:49 - Beauty Experience Barcelona: Siii genial !!!
+18/10/23, 16:37 - Andrea Premiumguest: Genial, ya estan todos enviados!
+18/10/23, 16:37 - Andrea Premiumguest: <Multimedia omitido>
+3/11/23, 16:57 - Andrea Premiumguest: <Multimedia omitido>
+10/11/23, 15:54 - Beauty Experience Barcelona: Hola buenas tardes tenemos un colega interesado en los servicios de la ticketera
+10/11/23, 15:55 - Beauty Experience Barcelona: Que contacto le puedo facilitar?
+10/11/23, 15:57 - Estefania Premiumguest: Hola Sharon le puedes facilitar el contacto de @⁨Andrea Premiumguest⁩  o @⁨Alex Premiumguest⁩ para que ellos lo gestionen mejor con tu amigo.
+10/11/23, 16:48 - Andrea Premiumguest: Hola Sharon! @⁨+34 617 74 48 60⁩ Si claro, si quereis nos envias su contacto y le informamos al equipo para que se ponga en contacto con el!
+19/11/23, 13:10 - Kenko Eventos: Hola buenas
+19/11/23, 13:10 - Kenko Eventos: Un problema con unas entradas
+19/11/23, 13:11 - Kenko Eventos: <Multimedia omitido>
+19/11/23, 13:11 - Kenko Eventos: <Multimedia omitido>
+19/11/23, 13:11 - Kenko Eventos: Que no les dejo descargar
+19/11/23, 13:16 - Andrea Premiumguest: Buenas! Lo revisamos!
+19/11/23, 13:28 - Andrea Premiumguest: Me podrias confirmar el correo del cliente por favor
+19/11/23, 13:28 - Kenko Eventos: Ya pregunto
+21/11/23, 14:44 - Andrea Premiumguest: Buenas equipo! como vais? Estamos realizando la planificación para el mes de Diciembre y nos gustaria saber si teneis pensado realizar algún evento de cara a la temporada de Navidad y Nochevieja? Cualquier cosa que necesiten nos cometan. Quedamos atentos
+22/11/23, 2:01 - Beauty Experience Barcelona: Hola buenas noches si tenemos pensado
+22/11/23, 2:02 - Beauty Experience Barcelona: Hacer eventos para este fin de año
+22/11/23, 9:04 - Andrea Premiumguest: Buen dia Sharon, vale de acuerdo! Si necesitais cualquier ayuda de nuestra parte nos indicais!
+27/12/23, 17:33 - Luis Premiumguest: <Multimedia omitido>
+30/12/23, 23:02 - Luis Premiumguest: Le comentamos que no es posible, como decía que os había hablado por instagram queríamos confirmar. 
+
+Muchas gracias
+31/12/23, 0:37 - Luis Premiumguest: Si
+31/12/23, 0:40 - Luis Premiumguest: Ya se ha quedado así preparado
+30/12/23, 23:00 - Kenko Eventos: Que las venda jejeje
+31/12/23, 0:32 - Kenko Eventos: Hola
+31/12/23, 0:32 - Kenko Eventos: Porfavor pueden poner la venta online
+31/12/23, 0:32 - Kenko Eventos: Hasta pasado la media noche de mañana
+31/12/23, 1:11 - Kenko Eventos: Vale gracias
+31/12/23, 14:57 - Beauty Experience Barcelona: <Multimedia omitido>
+31/12/23, 14:57 - Beauty Experience Barcelona: He solicitado una nueva contraseña y cuando voy al enlace del correo sale esto
+31/12/23, 14:57 - Beauty Experience Barcelona: <Multimedia omitido>
+31/12/23, 14:59 - Estefania Premiumguest: Hola Sharon, le puedes indicar que la solicite en este enlace el cambio de contraseña por favor https://app.premiumguest.com/v2/new-password-request/
+31/12/23, 15:01 - Beauty Experience Barcelona: Dicen que sale lo mismo
+31/12/23, 15:01 - Beauty Experience Barcelona: Se puede crear con otros correos
+31/12/23, 15:01 - Estefania Premiumguest: <Multimedia omitido>
+31/12/23, 15:01 - Beauty Experience Barcelona: Porque son dos personas que les pasa lo mismo
+31/12/23, 15:02 - Estefania Premiumguest: Nos puedes facilitar sus emails y los enlaces que les llega, o si pueden por favor volver a solicitarlo aquí https://app.premiumguest.com/v2/new-password-request/
+31/12/23, 15:11 - Beauty Experience Barcelona: Una ya pudo
+31/12/23, 15:11 - Beauty Experience Barcelona: La otra está en ello
+31/12/23, 15:11 - Estefania Premiumguest: Perfecto, cualquier cosa nos avisas por favor
+15/1/24, 14:31 - Andrea Premiumguest: Hola equipo que tal vais? Queremos saber si tenéis pensado realizar algún evento proximamente? 
+Cualquier cosa que necesitéis nos comentan y estaremos encantados de ayudaros. Quedamos atentos☺️
+5/3/24, 18:03 - ‎Clara Premiumguest cambió la descripción del grupo.
+7/3/24, 12:54 - Clara Premiumguest: 🔉 *COMUNICACIÓN IMPORTANTE* 🔉
+
+Buenos días!! Nos hace mucha ilusión comunicaros que Premiumguest se une a la familia de CoverManager. ❤️
+
+*¿Cambiará algo?* 😋
+No, todos los servicios y condiciones de Premiumguest seguirán como hasta ahora. Además, incorporaremos todos las funcionalidades avanzadas de restauración, reservas y conexión con POS que tiene CoverManager.
+
+*¿Por qué lo hacemos?* 🚀
+Unimos las fuerzas y tecnologías de las dos compañías para seguir innovando y unificar la noche con el día, dando una solución 360 a la industria del ocio.
+
+*Nota de prensa:* https://bit.ly/43euTpO
+11/3/24, 17:02 - Estefania Premiumguest: <Multimedia omitido>
+9/4/24, 9:04 - ‎Lorena Bas y +34 644 26 76 75 salió del grupo.
+5/4/24, 16:33 - Andrea Premiumguest: <Multimedia omitido>
+7/5/24, 16:45 - Andrea Premiumguest: Buenas equipo! Que tal va todo? Os contacto para hacer un poco de seguimiento de vuestro negocio y saber como va todo con la plataforma? O si tenéis previsión de eventos en los proximos meses? Si necesitais ayuda con alguna cosita! Lo que sea que necesitéis nos comentan!☺️
+22/5/24, 17:01 - Luis Premiumguest: <Multimedia omitido>
+22/5/24, 17:01 - Luis Premiumguest: *¡Novedades Mayo 2024! 🥳🔥*
+
+- 📲 *App:* Gestiona todos tus eventos y controla las ventas desde nuestra App, además tus RRPP podrán tener el control de sus ventas. App: *Premiumguest Manager* (https://onelink.to/ahuyeh)
+
+- 🎟️ *Integración con Agora* POS (beta) Unifica las entradas y consumiciones en el mismo QR.
+
+- 🍽️ *Integración con CoverManager* (beta) Traspaso automático de las reservas de Premiumguest a CoverManager.
+
+- 🍾 *Mesas VIP:*
++ Indica el número de personas por reservado, cobra por personas adicionales y define un adelanto para pagar online por las mesas.
++ Ajustes en el link de pago en otros idiomas, además podrás indicar el adelanto y/o pago en puerta de un reservado.
++ El precio de la entrada muestra el precio ajustado: adelanto + el precio a pagar en puerta.
++ Ajustes en los avisos de ventas de los reservados con el importe del adelanto.
+
+- 💃 *Bono cultural:* Premiumguest ya es una empresa adherida al programa. Si tu evento cumple con la normativa ¡podemos activarlo! (no aplicable para discotecas/ocio nocturno, sólo eventos calificados como culturales).
+
+- 🌍 *Formulario bajo petición:* Al solicitar el número de teléfono, te indica el país del cliente.
+29/5/24, 18:35 - Estefania Premiumguest: Hola! Nos pueden indicar por favor un email para añadir en la plataforma y que puedan recibir las peticiones de los asistentes y poder gestionarlas desde allí.
+Muchas gracias ☺
+8/8/24, 13:41 - Kenko Eventos: Hola.buenas
+8/8/24, 13:41 - Kenko Eventos: El eventos del 4 de octubre
+8/8/24, 13:41 - Kenko Eventos: Ustedes pueden tener entradas impresas ?
+8/8/24, 13:41 - Kenko Eventos: Físicas?
+8/8/24, 13:43 - Luis Premiumguest: Buenas!
+8/8/24, 13:44 - Luis Premiumguest: Tendríamos 2 opciones:
+8/8/24, 13:44 - Luis Premiumguest: 1° Os enviamos un listado de entradas con Qr para importarlas al sistema y vosotros o encargais de pasarlas a formato fisico
+8/8/24, 13:45 - Luis Premiumguest: 2* Os enviamos nosotros directamente las entradas fisicas
+8/8/24, 13:46 - Luis Premiumguest: El coste sería 0'15€ por unidad más iva. Más el gasto de envío que está entorno a los 5€
+8/8/24, 13:47 - Kenko Eventos: Me.interesaria  físicas
+8/8/24, 13:49 - Kenko Eventos: Nesecitamos 300 general  200 vip y 200 súper vip  
+Se diferencia algun color o algo ?  Tendríamos el código QR impresa verdad .?
+8/8/24, 13:50 - Luis Premiumguest: <Multimedia omitido>
+8/8/24, 13:50 - Luis Premiumguest: Tendría ese estilo
+8/8/24, 13:51 - Luis Premiumguest: Si queréis alguna personalización extra, que se diferencien por colores por ejemplo, podemos consultar si es posible
+8/8/24, 13:52 - Kenko Eventos: Pero vienen por unidades verdad en que material no será en papel ? Jeje
+8/8/24, 13:53 - Luis Premiumguest: Os consulto cual es el material, pero no es papel corriente
+8/8/24, 13:58 - Kenko Eventos: Si porque es para repartir a dos puntos de venta que son discotecas nuestras
+8/8/24, 17:46 - Kenko Eventos: <Multimedia omitido>
+8/8/24, 17:46 - Kenko Eventos: Me dicen que hicieron la compra pero no le llegó el código QR
+8/8/24, 17:47 - Estefania Premiumguest: Hola, tienes el email del comprador/a
+8/8/24, 17:49 - Kenko Eventos: Me dice que no
+8/8/24, 17:49 - Estefania Premiumguest: Ese código de autorización pertenece a  iffargpar_2004@hotmail.com 
+Karen Gamboa,
+8/8/24, 17:49 - Estefania Premiumguest: le reenviamos sus 2 entradas
+8/8/24, 17:49 - Kenko Eventos: Si pero no el código me.comenta
+8/8/24, 17:50 - Estefania Premiumguest: Ya debería haberle llegado las 2 entradas con el código
+8/8/24, 17:50 - Estefania Premiumguest: que compruebe su email
+8/8/24, 17:50 - Kenko Eventos: Oki
+8/8/24, 17:51 - Estefania Premiumguest: Cualquier cosa nos dices
+8/8/24, 17:52 - Kenko Eventos: Oki
+8/8/24, 17:52 - Kenko Eventos: Porfa no se olviden de lo de las entradas físicas
+8/8/24, 17:52 - Kenko Eventos: Es gamboakaren840@gmail.com
+8/8/24, 17:52 - Kenko Eventos: Este es el correo que puso dice
+8/8/24, 17:53 - Estefania Premiumguest: Nuestro compañero @⁨Luis Premiumguest⁩ lo consulto con el equipo cuando sepamos algo os decimos
+8/8/24, 17:53 - Estefania Premiumguest: gamboakaren840@gmail.com Este correo no aparece, el único que esta es este iffargpar_2004@hotmail.com
+8/8/24, 17:53 - Estefania Premiumguest: por eso no le ha llegado
+8/8/24, 17:54 - Estefania Premiumguest: se lo reenviamos al otro también
+8/8/24, 17:54 - Kenko Eventos: Ok
+8/8/24, 17:54 - Estefania Premiumguest: listo
+9/8/24, 14:32 - Kenko Eventos: Hola
+9/8/24, 14:32 - Kenko Eventos: Sobre las entradas físicas?
+9/8/24, 14:32 - Kenko Eventos: Para pedir
+9/8/24, 14:32 - Alex Premiumguest: Hola! para que dia las necesitáis?
+9/8/24, 14:33 - Kenko Eventos: 250 general 200 vip y 200 súper vip ?
+9/8/24, 14:33 - Kenko Eventos: Lo antes posible ?
+9/8/24, 14:34 - Alex Premiumguest: Lo vamos gestionado! necesitariamos la dirección de envío, nombre de contacto y número telef contacto. Lo solicita la empresa de transportes
+9/8/24, 14:34 - Alex Premiumguest: durante la semana que viene os llegaran. Os confirmo cuando sepa día exacto
+9/8/24, 14:37 - Kenko Eventos: Oscar salazar
+C/ 2 de mayo 250 (restaurante kenko ) cp 08026
+Teléfono 691840282
+9/8/24, 14:37 - Alex Premiumguest: gracias!
+9/8/24, 14:37 - Kenko Eventos: A tiii
+9/8/24, 14:56 - Alex Premiumguest: Para confirmar, el papel que se utiliza es de 120 gramos
+9/8/24, 14:57 - Alex Premiumguest: os confirmo cuanto antes cuando sepamos dia de llegada
+15/8/24, 13:04 - Beauty Experience Barcelona: Hola Buenos días
+15/8/24, 13:05 - Beauty Experience Barcelona: Tenemos noticias de las entradas físicas ?
+15/8/24, 13:06 - Constanza CoverExperiences: Hola buenos días! Lo consultamos con el equipo e informamos al respecto
+15/8/24, 13:06 - ‎Estefanía Domínguez y Laura Morales salió del grupo.
+15/8/24, 13:07 - Constanza CoverExperiences: Mañana a primera hora le indicamos el estado
+15/8/24, 13:08 - Beauty Experience Barcelona: Gracias 😄😄😄
+15/8/24, 13:09 - Constanza CoverExperiences: De nada, que tenga un buen día 😊
+16/8/24, 8:49 - Alex Premiumguest: Buenos días @⁨+34 617 74 48 60⁩, las entradas os llegarán el martes a la dirección proporcionada
+16/8/24, 9:00 - Kenko Eventos: Hola ok gracias
+20/8/24, 16:15 - Estefania Premiumguest: Hola, buenas tardes ¿recibieron ya las entradas físicas?
+20/8/24, 16:33 - Kenko Eventos: Hola
+20/8/24, 16:33 - Kenko Eventos: Voy a llamar a preguntar
+20/8/24, 16:35 - Kenko Eventos: No no llego nada
+20/8/24, 16:36 - Estefania Premiumguest: De acuerdo, avísenos si finalmente llega hoy
+21/8/24, 12:31 - Kenko Eventos: Hola
+21/8/24, 12:32 - Kenko Eventos: Al final no llegaron las entradas ..😔
+21/8/24, 12:35 - Luis Premiumguest: Consultamos qué nos aparece
+21/8/24, 12:35 - Kenko Eventos: Ya llame y fui al restaurante y me dicen que no llego nada
+21/8/24, 12:44 - Luis Premiumguest: Vamos a consultar mas información del envio
+21/8/24, 12:47 - Kenko Eventos: Gracias
+21/8/24, 13:19 - Luis Premiumguest: <Multimedia omitido>
+21/8/24, 20:07 - Kenko Eventos: Hola muy buenas
+21/8/24, 20:07 - Kenko Eventos: No llegaron entradas y nos comprometimos con mos clientes entregarlas hoy
+21/8/24, 20:08 - Kenko Eventos: 😪😪
+21/8/24, 20:08 - Estefania Premiumguest: Hola, buenas
+21/8/24, 20:08 - Estefania Premiumguest: Esa es la información que nos han proporcionado
+21/8/24, 20:08 - Estefania Premiumguest: No sabemos si podría llegar más tarde
+21/8/24, 20:08 - Kenko Eventos: Ya más tarde no creo que trabajen
+21/8/24, 20:09 - Kenko Eventos: Pero si sería bueno si pudieran llamar a preguntar
+21/8/24, 20:10 - Estefania Premiumguest: lo consultamos con el equipo
+21/8/24, 20:10 - Kenko Eventos: Gracias
+21/8/24, 20:47 - Alex Premiumguest: Hola! Hemos consultado y llegaran mañana, perdon por dicho retraso. Mañana nos encargaremos de estar pendientes con la empresa de transporte para que sea el día de entrega y no vuelvan a retrasarlo
+21/8/24, 20:47 - Kenko Eventos: Muchas gracias
+29/8/24, 18:53 - Kenko Eventos: https://events.barceloning.es/es/barcelona/
+29/8/24, 18:54 - Kenko Eventos: Una pregunta quiénes son ellos ?
+29/8/24, 18:55 - Kenko Eventos: La gente está preguntando que los manda a ese link
+29/8/24, 18:55 - Kenko Eventos: Quienes son ?
+29/8/24, 18:55 - Kenko Eventos: Son vosotros ?
+29/8/24, 18:57 - Kenko Eventos: <Multimedia omitido>
+29/8/24, 18:58 - Kenko Eventos: <Multimedia omitido>
+29/8/24, 18:59 - Estefania Premiumguest: Es una web de promoción, que promociona eventos de otros negocios,
+29/8/24, 19:00 - Kenko Eventos: Si pero de quien?
+29/8/24, 19:00 - Kenko Eventos: Es de su grupo ?
+29/8/24, 19:01 - Estefania Premiumguest: Trabajamos con ellos
+29/8/24, 19:01 - Estefania Premiumguest: Si es lo que pregunta
+29/8/24, 19:01 - Kenko Eventos: Pero deberían avisar que crea  desconfianza
+29/8/24, 19:02 - Kenko Eventos: A mi me mandaron y dije que no comore ni nada en esa pagina
+29/8/24, 19:02 - Estefania Premiumguest: Nosotros no gestionamos nada sin previa autorización vuestra
+29/8/24, 19:02 - Kenko Eventos: Mejor no vincular solo con la que tenemos y ya sería mejor
+29/8/24, 19:02 - Kenko Eventos: Si pero sale  hasta el cobro
+29/8/24, 19:02 - Estefania Premiumguest: Entonces no quieren promocionar con Barceloning
+29/8/24, 19:03 - Kenko Eventos: No no que crea confusión enserio
+29/8/24, 19:03 - Kenko Eventos: A mi me mandaron eso y les dije que no teníamos nada que ver con esa pagian
+29/8/24, 19:03 - Kenko Eventos: Página...claro no nos avisaron
+29/8/24, 19:03 - Estefania Premiumguest: De acuerdo, pero ya le comentamos, que nosotros no facilitamos ningún dato de ningún evento o web a ellos, salvo vuestra confirmación o que vosotros lo pidáis
+29/8/24, 19:03 - Kenko Eventos: Aparte trabaja con las discotecas diferentes a la nuestra y como se diría.. de la competencia
+29/8/24, 19:04 - Estefania Premiumguest: ¿estas seguro que nadie de vuestro equipo esta al tanto?
+29/8/24, 19:04 - Estefania Premiumguest: Lo consultamos con el equipo todo esto para que nos digan algo y te comunicamos
+29/8/24, 19:05 - Kenko Eventos: Solo lo llevamos @⁨+34 617 74 48 60⁩  y yo
+29/8/24, 19:05 - Estefania Premiumguest: D acuerdo , lo consultamos con el equipo y os lo aclaramos lo antes posible
+29/8/24, 19:06 - Kenko Eventos: Porfavor ...
+29/8/24, 19:08 - Estefania Premiumguest: Si si por supuesto
+30/8/24, 8:43 - Andrea Premiumguest: Buen dia equipo, primero que nada lamentamos la confusión que esto os ha podido traer. Hemos estado revisando con el equipo y en su momento vosotros solicitaron y aceptaron activar la red de promoción de los eventos. Y ha quedado activada desde entonces a menos que comunicaran lo contrario. A partir de ahora si queréis desactivarla procedemos a eliminarla por completo. Ya nos confirman y lo gestionamos.
+10/9/24, 10:38 - Luis Premiumguest: <Multimedia omitido>
+10/9/24, 10:39 - Kenko Eventos: Si osea quedaría una entrada vip ? Para la venta ?
+10/9/24, 10:39 - Kenko Eventos: Hola
+10/9/24, 10:40 - Luis Premiumguest: Si se devuelve esta sí
+10/9/24, 10:42 - Kenko Eventos: Ok
+10/9/24, 10:42 - Kenko Eventos: Devolverla porque la señora me está llando desde las 7 y 30 am jajaja y yo le dije escribe al correo
+10/9/24, 10:43 - Luis Premiumguest: De acuerdo, sin problema!
+10/9/24, 10:44 - Kenko Eventos: Oki
+10/9/24, 10:44 - Luis Premiumguest: Devuelta!
+10/9/24, 10:44 - Kenko Eventos: Gracias
+13/9/24, 16:28 - Kenko Eventos: Hola
+13/9/24, 16:28 - Kenko Eventos: Heydi  León  compró entradas y no le llega el correo
+13/9/24, 16:29 - Andrea Premiumguest: Buenas! lo revisamos
+13/9/24, 16:40 - Kenko Eventos: Tutaleon@hotmail.com
+13/9/24, 16:52 - Andrea Premiumguest: <Multimedia omitido>
+13/9/24, 16:53 - Andrea Premiumguest: Hay dos intentos de compra con la misma denegación
+10/10/24, 13:28 - Se añadió a Sonia García Premiumguest
+8/10/24, 12:02 - Beauty Experience Barcelona: Cómo para asumir otro gasto más
+8/10/24, 12:02 - Beauty Experience Barcelona: El cual no teníamos ni idea
+8/10/24, 12:04 - Beauty Experience Barcelona: Ni siquiera tenemos estadisticas ni un desglose de cómo está funcionando esa red de promoción .
+8/10/24, 12:04 - Kenko Eventos: Es más no estamos deacuerdo que se hagan esas promociones en otras redes porque si nosotros  estamos con la tiketera es por facilitar al cliente... pero ya y nos reclaman por la comisión lo cliente pero en si les explicamos que es por la comodidad pero si eso nos perjudica au. A nosotros pues no conviene
+8/10/24, 12:06 - Andrea Premiumguest: Aquí os comentamos sobre ello y que nos confirmaran si querían desactivarlo
+8/10/24, 12:11 - Beauty Experience Barcelona: Precisamente dijimos que no estábamos de acuerdo porque creaba confusión.
+8/10/24, 12:11 - Beauty Experience Barcelona: Si no no lo hubiésemos manifestado
+8/10/24, 12:11 - Andrea Premiumguest: Esto podemos facilitarlo si quereis, igualmente en el resumen de Entradas vendidas del evento se puede observar este dato de las ventas realizadas a través de promotores externos. Igualmente el equipo de admin lo esta comprobando el valor
+8/10/24, 12:12 - Andrea Premiumguest: De acuerdo, entonces lo desactivamos
+8/10/24, 12:12 - Kenko Eventos: Recuerdo hasta hace 2 años en Canarias tenían colaboradores y dijimos que no ...  pero eso fue hace tiempo
+8/10/24, 12:48 - Andrea Premiumguest: Ya os hemos desactivado la red de promoción para todos los eventos
+8/10/24, 12:52 - Beauty Experience Barcelona: Necesito porfavor que me manden las estadísticas y el documento donde damos el consentimiento para la red de promoción
+8/10/24, 12:57 - Andrea Premiumguest: Lo solicitamos
+8/10/24, 23:06 - Beauty Experience Barcelona: Buenas noches hemos decido no continuar trabajando con ustedes a partir del último evento que tenemos en la página. Nos parece abusivo que se lleven esa cantidad de dinero cuando nosotros por nuestra cuenta ya invertimos en publicidad pagada y llevamos nuestros seguidores orgánicos a la compra cuando para que  les genere  a ustedes una comisión .
+8/10/24, 23:08 - Ivanna Viejo: Hola, buenas noches!
+8/10/24, 23:09 - Ivanna Viejo: Lamentamos mucho la situación. Mañana por la mañana el equipo se pondrá en contacto con vosotros.
+9/10/24, 12:55 - Andrea Premiumguest: <Multimedia omitido>
+9/10/24, 12:55 - Andrea Premiumguest: <Multimedia omitido>
+9/10/24, 12:55 - Andrea Premiumguest: <Multimedia omitido>
+31/10/24, 10:37 - Beauty Experience Barcelona: Buenas tardes
+31/10/24, 10:37 - Beauty Experience Barcelona: Dias*
+31/10/24, 10:37 - Andrea Premiumguest: Buenos dias!
+31/10/24, 10:38 - Andrea Premiumguest: Necesitais ayuda con algo?
+31/10/24, 10:38 - Beauty Experience Barcelona: Si porfavor
+31/10/24, 10:38 - Beauty Experience Barcelona: Habilitar la venta online de hoy
+31/10/24, 10:38 - Beauty Experience Barcelona: La de 20€
+31/10/24, 10:42 - Andrea Premiumguest: De acuerdo!! Lo gestionamos!
+31/10/24, 10:44 - Andrea Premiumguest: Ya queda habilitada!
+31/10/24, 11:54 - Beauty Experience Barcelona: Muchas gracias 🙏🙏
+31/10/24, 11:59 - Andrea Premiumguest: De nada!! Lo que necesiteis!!
+12/11/24, 17:23 - Estefania Premiumguest: 🚀 ¡Novedades de Noviembre en tu plataforma favorita! 🚀
+Lo que ya está en marcha:
+🖥 Nueva página de Usuarios y RRPP: Para que puedas gestionarlos de manera más rápida y sencilla. Todo en un mismo lugar.
+🎟 Carnets de socio en Apple y Google Wallet: ¡Personaliza el color y agrega tu propia imagen en las entradas! Dale ese toque único a cada experiencia.
+📸 Galería de fotos mejorada en webs de venta, tanto en mobile como en desktop. Tus eventos ahora lucen mejor que nunca.
+💸 Descuentos en masa: Genera códigos de promoción rápidamente y llega a más personas en menos tiempo.
+📋: Nueva ficha de cliente: Toda la info del usuario, con cada detalle de su compra al alcance de tu mano.
+Lo que viene en unos días:
+🔜 Mejora en la visualización en el checkout del desglose de precios: total, subtotal, descuento y adelanto.
+🛒 Checkout renovado: El formulario del comprador irá directamente en la página de checkout. Simplificamos para mejorar.
+Lo que verás pronto:
+⏰ Entradas por tramos horarios y opciones de compra cuando un tipo de entrada se agote.
+💵 Pagos en efectivo para entradas y reservados.
+⏱ Hora máxima permitida para cada tipo de entrada en la app de escaneo.
+Esto es solo el comienzo. ¡Prepárate para una experiencia de gestión de eventos mejorada como nunca! 🚀👊
+⭐ ¿Qué te han parecido estas mejoras? Nos encantaría conocer tu opinión. Déjanos tus comentarios en este formulario para seguir mejorando 👉
+
+https://tally.so/r/3yqBgB?customer_id=Kenko%20Tickets&customer_name=Kenko%20Tickets
+19/11/24, 10:56 - Kenko Eventos: El día 15 de noviembre compre la boleta para hebert vargas y aún no me llega la entrada al correo tvalentina628@gmail.com 
+Número:624049871
+La compre a nombre de Jennifer banguero torres
+19/11/24, 10:56 - Kenko Eventos: Hoka buenas un problema con un cliente
+19/11/24, 10:58 - Clara Premiumguest: Buenas! lo revisamos
+19/11/24, 10:59 - Kenko Eventos: Eventos.kenkotickets.com
+19/11/24, 11:00 - Clara Premiumguest: Para qué sería este correo?
+19/11/24, 11:01 - Kenko Eventos: No se me escapó jejee disculpen
+19/11/24, 11:01 - Clara Premiumguest: Ya le hemos reenviado la entrada, había colocado mal el correo y por eso no la había recibido ☺️
+19/11/24, 11:15 - Kenko Eventos: Gracias
+19/11/24, 11:15 - Clara Premiumguest: De nada!
+29/11/24, 21:59 - Beauty Experience Barcelona: Buenas noches quería preguntarles
+29/11/24, 21:59 - Beauty Experience Barcelona: Porque acabo de subir él eventos de fin de año
+29/11/24, 21:59 - Beauty Experience Barcelona: Pero a pesar que me pone que está publicado aún no se refleja en la Web
+29/11/24, 22:00 - Beauty Experience Barcelona: Tarda en aplicar cambios o hay algo que está mal ?
+29/11/24, 22:02 - Estefania Premiumguest: Hola, en que negocio has publicado el evento y que nombre tiene el evento
+29/11/24, 22:02 - Luis Premiumguest: Lo comprobamos!
+29/11/24, 22:06 - Estefania Premiumguest: La chismosa tienes deshabilitada la web, por eso no aparecía el link …. el evento es este: https://sales.premiumguest.com/la-chismosa/barcelona/la-chismosa/fin-de-ano-2024-la-chismosa-barcelona/2024-12-31
+29/11/24, 22:06 - Estefania Premiumguest: No esta creado en la web de Kenko
+29/11/24, 22:09 - Luis Premiumguest: https://eventos.kenkotickets.com/es/la-chismosa/fin-de-ano-2024-la-chismosa-barcelona/2024-12-31/
+29/11/24, 22:09 - Luis Premiumguest: Os hemos puesto el enlace también visible en la web de Kenko Tickets
+5/12/24, 11:22 - Kenko Eventos: <Multimedia omitido>
+5/12/24, 11:22 - Kenko Eventos: Buenas si pudieran hacerle la devolución a esta persona ya que no podrá asistir por cambio de fecha .. muchas gracias
+5/12/24, 14:04 - Constanza CoverExperiences: <Multimedia omitido>
+5/12/24, 14:15 - Kenko Eventos: Si porfavor
+5/12/24, 14:16 - Alex Premiumguest: Hola equipo! Tenéis pensando publicar algún evento de fin de año? Por si os podemos ayudar con algo!😊 @⁨~Oscar⁩
+5/12/24, 14:18 - Constanza CoverExperiences: Gestionado el reembolso!
+5/12/24, 15:08 - Kenko Eventos: Gracias
+5/12/24, 15:09 - Kenko Eventos: Hola en teoría tenemos evento de fin de año en su página
+19/12/24, 8:34 - Beauty Experience Barcelona: <Multimedia omitido>
+19/12/24, 8:34 - Beauty Experience Barcelona: Buenos días me pueden ayudar para subir este evento porfavor?
+19/12/24, 9:05 - Andrea Premiumguest: Buen día!
+19/12/24, 9:05 - Andrea Premiumguest: Lo vamos gestionando
+19/12/24, 9:06 - Andrea Premiumguest: Cuantas entradas de 10€ colocamos disponibles?
+19/12/24, 9:07 - Andrea Premiumguest: Y confirmarnos el horario
+19/12/24, 9:35 - Beauty Experience Barcelona: 300
+19/12/24, 9:35 - Beauty Experience Barcelona: Desde las 17:00hrs de ese día
+19/12/24, 9:36 - Beauty Experience Barcelona: Hasta el día siguiente a las 6:00
+19/12/24, 9:36 - Andrea Premiumguest: De acuerdo, lo vamos preparando con esso datos
+19/12/24, 9:52 - Andrea Premiumguest: https://eventos.kenkotickets.com/es/kenko-tickets/fiesta-roja/ aqui lo teneis en privado, revisar si el link esta correcto y lo activamos
+19/12/24, 16:25 - Andrea Premiumguest: Lo habeis podido revisar?
+19/12/24, 16:31 - Beauty Experience Barcelona: Si esta bien muchas gracias
+19/12/24, 16:36 - Andrea Premiumguest: Genial, quieren que lo dejemos activo?
+19/12/24, 17:59 - Beauty Experience Barcelona: Si porfavor
+19/12/24, 17:59 - Beauty Experience Barcelona: Tenemos otro evento tb
+19/12/24, 18:00 - Andrea Premiumguest: De acuerdo, lo dejamos activo!
+19/12/24, 18:01 - Andrea Premiumguest: Cual? Tambien nos podeis enviar los datos y os ayudamos a prepararlo
+19/12/24, 18:02 - Andrea Premiumguest: Ya Fiesta Roja quedo publicado
+20/12/24, 12:58 - Andrea Premiumguest: Buenos días!
+
+Nos ponemos en contacto con vosotros ya que tienes activo un evento para fin de año.
+
+**Si tienes una necesidad urgente y requieres de una liquidación especial de tu evento responde a este mensaje para que el departamento de administración lo pueda incluir en una remesa extraordinaria de pagos entre el día 2 y 3 de enero**
+
+De lo contrario, la liquidación de tu evento de fin de año se realizará de la forma habitual, en este caso el martes 7 de enero, al ser festivo el lunes 6.
+
+Desde Premiumguest nos enfocamos siempre en estar a tu lado y ayudarte en aquello que necesites, esto es una acción especial por favor haz uso de ella si realmente es importante para tu negocio, ya que supone un esfuerzo y trabajo extra para nosotros en unas fechas con mucha carga de trabajo.
+
+Cualquier consulta no dudes en ponerte en contacto con nosotros.
+¡Por un 2025 de éxitos compartidos!
+20/12/24, 15:48 - Beauty Experience Barcelona: <Multimedia omitido>
+20/12/24, 15:48 - Beauty Experience Barcelona: <Multimedia omitido>
+20/12/24, 15:48 - Beauty Experience Barcelona: 45€
+20/12/24, 15:48 - Beauty Experience Barcelona: Las personas que no deseen cena, la entrada sera de 20€ ( incluye contillo)
+20/12/24, 15:48 - Beauty Experience Barcelona: Buenas noches me podrían ayudar a subir este evento ?
+20/12/24, 15:49 - Beauty Experience Barcelona: Empieza a las 20hrs las
+20/12/24, 15:49 - Kenko Eventos: Citilon y cava
+20/12/24, 15:50 - Andrea Premiumguest: Buenas!
+20/12/24, 15:50 - Andrea Premiumguest: Se eliminó este mensaje.
+20/12/24, 15:50 - Andrea Premiumguest: Lo vamos preparando!
+20/12/24, 15:51 - Andrea Premiumguest: Nos podrian indicar cuantas entradas de cada tipo colocamos disponibles?
+20/12/24, 15:53 - Andrea Premiumguest: Tambien faltaria confirmar horario
+20/12/24, 15:58 - Beauty Experience Barcelona: A partir de las 20hrs
+20/12/24, 15:58 - Beauty Experience Barcelona: Y las cenas se sirven a partir de las 10:00hrs
+20/12/24, 16:02 - Andrea Premiumguest: Vale lo añadimos
+20/12/24, 16:08 - Andrea Premiumguest: https://eventos.kenkotickets.com/es/kenko-tickets/celebramos-nuevo-ano-2025/ aqui teneis el link del evento en privado
+20/12/24, 16:08 - Andrea Premiumguest: En añadido en menu en un enlace dentro del servicio.
+20/12/24, 16:09 - Andrea Premiumguest: <Multimedia omitido>
+20/12/24, 16:09 - Andrea Premiumguest: Ya nos confirman si esta correcto
+20/12/24, 16:56 - Andrea Premiumguest: Falta confirman cantidades tambien, quedamos atentos
+20/12/24, 17:06 - Beauty Experience Barcelona: Gracias :)
+20/12/24, 17:07 - Beauty Experience Barcelona: 100 cena 
+100 entrada cena
+20/12/24, 17:07 - Beauty Experience Barcelona: Se podría colocar en vez de entrada cena . Entrada general + cena
+20/12/24, 17:07 - Beauty Experience Barcelona: ?
+20/12/24, 17:09 - Andrea Premiumguest: Si claro, lo modificamos
+20/12/24, 17:09 - Andrea Premiumguest: <Multimedia omitido>
+20/12/24, 21:18 - Beauty Experience Barcelona: Siiiii
+20/12/24, 21:19 - Estefania Premiumguest: Ya quedo modificado!
+20/12/24, 21:20 - Estefania Premiumguest: publicamos el evento?
+20/12/24, 21:25 - Beauty Experience Barcelona: Si porfavor
+20/12/24, 21:27 - Estefania Premiumguest: listo, mucho éxito 🤗🤗
+27/12/24, 14:12 - ‎Alex Premiumguest añadió a Ivanna Premiumguest.
+30/12/24, 21:33 - Kenko Eventos: <Multimedia omitido>
+30/12/24, 21:33 - Kenko Eventos: <Multimedia omitido>
+30/12/24, 21:34 - Kenko Eventos: <Multimedia omitido>
+30/12/24, 21:34 - Constanza CoverExperiences: Hola, buenas noches! Lo revisamos
+30/12/24, 21:34 - Constanza CoverExperiences: ¿tienes su nombre o correo con el que gestiono la compra?
+30/12/24, 21:35 - Constanza CoverExperiences: Indicanos por favor sus datos para poder revisar
+30/12/24, 21:35 - Kenko Eventos: <Multimedia omitido>
+30/12/24, 21:36 - Constanza CoverExperiences: Perfecto!
+31/12/24, 19:19 - Beauty Experience Barcelona: <Multimedia omitido>
+31/12/24, 19:19 - Beauty Experience Barcelona: Buenas tardes les quería comentar que no aparece el evento de la chismosa en la app para escanear
+31/12/24, 19:20 - Estefania Premiumguest: Hola, lo comrpobamos
+31/12/24, 19:22 - Estefania Premiumguest: Sal y vuelve a entrar
+31/12/24, 19:23 - Estefania Premiumguest: indicanos el usuario de esta persona
+31/12/24, 19:46 - Beauty Experience Barcelona: Yasuri
+31/12/24, 19:51 - Constanza CoverExperiences: Este perfil, con este correo nao21112000@gmail.com , esta ingresando con este correo? Confirmar eso ya que está añadido en el evento y debería verlo.
+31/12/24, 19:51 - Constanza CoverExperiences: Si están ingresando con otro perfil, nos indican y lo revisamos
+8/1/25, 9:50 - Kenko Eventos: Hola buenas
+8/1/25, 9:51 - Kenko Eventos: Cuando se hará el ingreso de las fiestas ?
+8/1/25, 9:54 - Andrea Premiumguest: buen dia! Nuestra compañera te confirmará lo antes posible  @⁨Sonia García Premiumguest⁩
+8/1/25, 9:59 - Kenko Eventos: Gracias
+8/1/25, 10:01 - Sonia García Premiumguest: Buenos dias, ayer se realizaron los pagos correspondiente a eventos de fin de año
+8/1/25, 10:02 - Sonia García Premiumguest: Os informo acerca del vuestro, un segundo
+8/1/25, 14:47 - Sonia García Premiumguest: Buenas estoy revisando los pagos, eran a los datos de kenko verdad? El pago de la chismosa
+8/1/25, 15:04 - Kenko Eventos: Si
+8/1/25, 15:06 - Sonia García Premiumguest: Vale perfecto
+8/1/25, 19:24 - Kenko Eventos: Hola
+8/1/25, 19:24 - Kenko Eventos: Tenemos problemas no pueden ingresar a comprar entradas
+8/1/25, 19:24 - Kenko Eventos: En este link
+8/1/25, 19:25 - Kenko Eventos: Eventos.kenkotickets.com
+8/1/25, 19:25 - Kenko Eventos: No carga la pagina
+8/1/25, 19:25 - Estefania Premiumguest: Hola, estamos haciendo comrprobaciones en el sistema, os avisamos en cuando este listo
+8/1/25, 19:25 - Kenko Eventos: Oki
+8/1/25, 19:35 - Estefania Premiumguest: Prueba otra vez, ya debería funcionar de manera correcta
+8/1/25, 19:36 - Kenko Eventos: No se queda pensando
+8/1/25, 19:36 - Kenko Eventos: No accede y hay como 4 personas de ciudades diferentes que quieren comprar
+8/1/25, 19:37 - Kenko Eventos: Ahora si deja ...
+8/1/25, 19:37 - Estefania Premiumguest: Si va poco a poco
+8/1/25, 19:37 - Kenko Eventos: Ok gracias
+17/1/25, 16:36 - Kenko Eventos: Machadoarangocristian@gmail.com
+17/1/25, 16:36 - Kenko Eventos: Y el que mando malo fue machadoarangocristianluis@gmail.com  este es el malo 🙅‍♂️
+17/1/25, 16:36 - Kenko Eventos: Acaban de comprar 2 palcos para barcelona vallenato fest
+17/1/25, 16:36 - Kenko Eventos: Me dicen que pusieron mal el correo
+17/1/25, 16:36 - Kenko Eventos: Hola buenas
+17/1/25, 16:37 - Kenko Eventos: Yo hice la compra de 3 pero solo me llegó al correo dos boletas
+17/1/25, 16:37 - Luis Premiumguest: Buenas! Lo revisamos
+17/1/25, 16:37 - Kenko Eventos: <Multimedia omitido>
+17/1/25, 16:37 - Kenko Eventos: <Multimedia omitido>
+17/1/25, 16:37 - Kenko Eventos: Y este es otra que solo le llegó 2 correos y compró 3 dice
+17/1/25, 16:40 - Luis Premiumguest: Reenviadas al correo bueno!
+17/1/25, 16:40 - Kenko Eventos: Gracias
+17/1/25, 16:40 - Kenko Eventos: Y estas porfa
+17/1/25, 16:41 - Kenko Eventos: Ya está me dice que ya las encontro
+17/1/25, 16:42 - Luis Premiumguest: Justo acababa de reenviarle las 3 entradas de nuevo
+17/1/25, 16:42 - Kenko Eventos: Vale gracias
+26/1/25, 13:40 - Kenko Eventos: Betocar179@yahoo.es
+26/1/25, 13:40 - Kenko Eventos: <Multimedia omitido>
+26/1/25, 13:40 - Kenko Eventos: Hola buenas
+26/1/25, 13:40 - Kenko Eventos: Compraron en Valencia pero dice que solo les llegó 1 y son 3
+26/1/25, 13:42 - Clara Premiumguest: Buenas! a este correo no hay nada asignado
+26/1/25, 13:43 - Clara Premiumguest: Esas entradas están compradas mediante este correo gotito16p@hotmail.com, le hemos reenviado las 3 allí
+26/1/25, 13:47 - Kenko Eventos: Vale gracias
+26/1/25, 13:47 - Clara Premiumguest: De nada! :)
+12/2/25, 15:56 - Estefania Premiumguest: Hola! Queríamos contarte que Premiumguest ahora es CoverExperiences , la solución de CoverManager para la gestión de eventos y venta de entradas.
+
+A partir de ahora, verás CoverExperiences en:
+✅ Software y app 📲
+✅ Sitio web 🌐
+✅ Firmas de correo y redes sociales 📩📣
+✅ Dossiers y materiales comerciales 📄
+✅ Play Store y App Store 🏪
+
+Lo más importante:
+
+🔹 Tu operativa sigue igual, pero con tecnología más potente.
+🔹 Seguimos siendo el mismo equipo, ahora con más herramientas para ayudarte.
+
+Puedes leer más sobre esta evolución aquí 👉 https://bit.ly/3CzQxfn
+¡Gracias por seguir creciendo con nosotros! 💛
+12/2/25, 15:56 - ‎Estefania Premiumguest cambió el nombre del grupo de "Kenko - Premiumguest" a "Kenko - CoverExperiences".
+12/2/25, 15:57 - ‎Estefania Premiumguest cambió el ícono de este grupo
+13/2/25, 22:14 - Kenko Eventos: Hola
+13/2/25, 22:15 - Kenko Eventos: Es la misma tiketera porque todo el mundo me pregunta y yo le digo que si
+13/2/25, 22:15 - Kenko Eventos: Quería hacerles una pregunta
+13/2/25, 22:15 - Kenko Eventos: Para preguntar por alguien que me pueda devur algunas cosas con respecto de las entradas en tema financiero ?
+13/2/25, 22:16 - Andrea Premiumguest: Hola!!
+13/2/25, 22:17 - Andrea Premiumguest: Si la plataforma y la web continúan siendo la misma
+13/2/25, 22:18 - Andrea Premiumguest: Con respecto a temas administrativos podéis comentarlo con mi compañera @⁨Sonia García Premiumguest⁩ y ella mañana os ayuda con vuestras dudas
+13/2/25, 22:24 - Kenko Eventos: Vale muchas gracias
+13/2/25, 22:31 - Andrea Premiumguest: Si queréis puedes dejar tú consulta por aquí o comentarle a ella directamente
+13/2/25, 22:31 - Andrea Premiumguest: Cualquier otra cosita nos decís
+13/2/25, 22:31 - Andrea Premiumguest: De nada!
+14/2/25, 12:32 - Cambiaste el ícono del grupo.
+4/3/25, 13:06 - Kenko Eventos: Hola buenas
+4/3/25, 13:07 - Luis Premiumguest: Buenas!
+4/3/25, 13:07 - Kenko Eventos: Creo que va mal la página varios clientes no les deja entrar al enlace
+4/3/25, 13:07 - Kenko Eventos: Incluido a mi
+4/3/25, 13:07 - Kenko Eventos: Eventos.kenkotickets.com
+4/3/25, 13:07 - Luis Premiumguest: Comprobamos el motivo
+4/3/25, 13:07 - Kenko Eventos: Y esto pasa desde primera hora
+4/3/25, 13:07 - Kenko Eventos: Ok gracias
+4/3/25, 13:08 - Kenko Eventos: <Multimedia omitido>
+4/3/25, 13:08 - Kenko Eventos: Un cliente compró esta entrada no le llegó el código QR
+4/3/25, 13:13 - Kenko Eventos: Colocó mal el correo
+4/3/25, 13:14 - Luis Premiumguest: <Multimedia omitido>
+4/3/25, 13:15 - Luis Premiumguest: Teneis que comprobar en vuestra cuenta de IONOS, ya que normalmente los registradores dan un período de gracia para volver a renovar/comprar el mismo dominio, antes de ponerlo al publico general a la venta
+4/3/25, 13:17 - Luis Premiumguest: Los compro con este correo: luisablanco844@gmail.com
+
+¿Teneis el correo correcto al cual reenvia las entradas?
+4/3/25, 13:17 - Luis Premiumguest: @⁨~Oscar⁩ Si tenéis dudas con esto os podemos intentar ayudar, ya nos decís, ya que es importante que logreis recuperar el dominio
+4/3/25, 13:19 - Kenko Eventos: Si porfa me puedes decir ? Esque la encargada es mi mujer pero esta ocupada ahora y no  esta disponible hasta la noche
+4/3/25, 13:19 - Kenko Eventos: Y hay mucha gente llamando para comprar ya
+4/3/25, 13:19 - Luis Premiumguest: Podemos para mientras generar otro link
+4/3/25, 13:20 - Luis Premiumguest: Aunque lo importante es que recupereis el dominio, si no vais a perder toda la promocion llevada a cabo hasta la fecha
+4/3/25, 13:20 - Kenko Eventos: Por eso
+4/3/25, 13:20 - Luis Premiumguest: Prueba a acceder a IONOS.COM si recuerdas el mail y la contraseña con la que os registrastéis. 
+
+Y una vez allí os tienen que ofrecer poder renovar el dominio que os pertenecía
+4/3/25, 13:21 - Kenko Eventos: Vale
+4/3/25, 13:23 - Luis Premiumguest: Intentad hacerlo cuanto antes ya que pueden ponerlo a la venta
+5/3/25, 21:18 - Kenko Eventos: Si, porfa o si tienes algun número donde yo pueda comunicarme, de verdad quiero ir al concierto y en mi cuenta de banco descontaron el dinero, Y tengo el recibo quiere decir que sí pero no me enviaron nada
+5/3/25, 21:18 - Kenko Eventos: blancoluisa844@gmail.com
+5/3/25, 21:18 - Kenko Eventos: <Multimedia omitido>
+5/3/25, 21:19 - Estefania Premiumguest: Hola, es para comprobar u nticket?
+5/3/25, 21:19 - Kenko Eventos: <Multimedia omitido>
+5/3/25, 21:20 - Estefania Premiumguest: Lo comprobamos
+5/3/25, 21:22 - Estefania Premiumguest: <Multimedia omitido>
+5/3/25, 21:22 - Estefania Premiumguest: blancoluisa844@gmail.com a esta dirección
+5/3/25, 21:22 - Estefania Premiumguest: Reenviada!
+5/3/25, 21:25 - Kenko Eventos: Gracias
+5/3/25, 21:25 - Estefania Premiumguest: Nada, un placer 🥰🥰
+6/3/25, 19:23 - Beauty Experience Barcelona: <Multimedia omitido>
+6/3/25, 19:23 - Beauty Experience Barcelona: Hola ya recuperamos el dominio
+6/3/25, 19:23 - Beauty Experience Barcelona: Tienen que hacer algo por su parte
+6/3/25, 19:24 - Estefania Premiumguest: Hola, lo comprobamos
+6/3/25, 19:26 - Estefania Premiumguest: ¿es etsa web: https://eventos.kenkotickets.com/?
+6/3/25, 19:26 - Estefania Premiumguest: Por favor indicadnos porque si entramos en ella, no nos aparece como siempre <Se editó este mensaje.>
+6/3/25, 19:35 - Estefania Premiumguest: Revisen bien que han realizado la compra del dominio
+6/3/25, 20:26 - Beauty Experience Barcelona: El dominio es Kenkotickets.com
+6/3/25, 20:27 - Estefania Premiumguest: Nosotros tenemos registrado el que te hemos indicado previamente, es ese el que est configurado. Incluso lo teneis en la descripción de etse grupo y aquí nos lo dijisteis <Se editó este mensaje.>
+6/3/25, 20:27 - Beauty Experience Barcelona: Recuerdo que cuando compré el dominio
+6/3/25, 20:28 - Beauty Experience Barcelona: Con alguna de tus compañeras me hicieron hacer
+6/3/25, 20:28 - Beauty Experience Barcelona: Un proceso
+6/3/25, 20:28 - Beauty Experience Barcelona: Para que quede
+6/3/25, 20:28 - Beauty Experience Barcelona: Así *
+6/3/25, 20:28 - Estefania Premiumguest: ESe es el dominio, como tu dices, pero nos estas indicado aquí otro
+6/3/25, 20:28 - Estefania Premiumguest: compruebalo por favor
+6/3/25, 20:52 - Beauty Experience Barcelona: <Multimedia omitido>
+6/3/25, 20:54 - Estefania Premiumguest: Lo vamos a comprobar
+6/3/25, 20:55 - Estefania Premiumguest: GUIA: https://intercom.help/premiumguest-b424372d5443/es/articles/8890687-configura-el-dominio-subdominio-de-tu-web-de-venta
+Tendrías que hacer desde vuestro registrador del dominio los pasos que se explican en esa guía⬆. Te explico un poco resumido qué sería:
+
+1-Acceder al apartado normalmente llamado zona dns
+2-En el apartado de Registros, crear un nuevo registro. Este registro debe de ser de tipo CNAME
+3-En host o nombre, poner Tickets (En el caso de que queráis que el subdominio sea Tickets.madlifemadrid.com (Podéis poner cualquier palabra Tickets, entradas, eventos...)
+4-En "apunta a" escribir exactamente whitelabel.premiumguest.net
+
+*Importante no hay que realizar un subdominio, es simplemente realizar el registro de tipo Cname con las indicaciones⬆
+6/3/25, 20:55 - Estefania Premiumguest: Puede que fueran esos pasos dentro de la wweb donde has comprado tu dominio realizar esos pasos
+6/3/25, 20:57 - Estefania Premiumguest: Como l otienes en IONOS, mirad este enlace :
+
+https://www.ionos.es/ayuda/dominios/configurar-cname-para-subdominios/configurar-un-registro-cname-para-un-subdominio-existente/?utm_source=search&utm_medium=global&utm_term=cname&utm_campaign=HELP_CENTER&utm_content=/ayuda/dominios/conectar-un-dominio-con-una-pagina-web-en-11-ionos/definir-un-nuevo-nombre-de-dominio-en-el-archivo-wp-configphp/#c14327
+6/3/25, 20:57 - Estefania Premiumguest: por si os ayuda
+6/3/25, 20:57 - Beauty Experience Barcelona: Vale genial
+6/3/25, 20:57 - Beauty Experience Barcelona: Pues ya me pongo con eso
+6/3/25, 20:58 - Estefania Premiumguest: perfecto, cualquier cosa nos vas diciendo :)
+6/3/25, 22:59 - Beauty Experience Barcelona: Hola ya está creado
+6/3/25, 23:03 - Beauty Experience Barcelona: Ahora que debemos hacer ? ☺️
+6/3/25, 23:08 - Andrea Premiumguest: Buenas! Paso la nota al equipo de tech para que mañana en la mañana lo puedan configurar y terminar de activar!
+6/3/25, 23:31 - Beauty Experience Barcelona: Gracias ☺️
+6/3/25, 23:33 - Andrea Premiumguest: Nada!! Mañana nos encargamos de revisarlo
+7/3/25, 9:12 - Luis Premiumguest: Buenos días! Ya se encuentra la web operativa:
+
+https://eventos.kenkotickets.com/es/
+7/3/25, 9:13 - Beauty Experience Barcelona: 🫣🫣🫣
+7/3/25, 9:13 - Beauty Experience Barcelona: Gracias :)
+10/3/25, 21:52 - Kenko Eventos: <Multimedia omitido>
+10/3/25, 21:52 - Kenko Eventos: Ese fue el que registré
+10/3/25, 21:52 - Kenko Eventos: Pero para enviar las boletas a este porfavor
+10/3/25, 21:52 - Kenko Eventos: Jaider.agudelo887@pascualbravo.edu.co
+10/3/25, 21:52 - Kenko Eventos: Hola
+10/3/25, 21:54 - Constanza CoverExperiences: Buenas noches!
+10/3/25, 21:55 - Constanza CoverExperiences: Lo revisamos
+10/3/25, 21:56 - Kenko Eventos: Hola
+10/3/25, 21:57 - Constanza CoverExperiences: Le hemos reenviado los 5 tickets al correo indicado
+10/3/25, 21:57 - Constanza CoverExperiences: estaban registradas con otro correo
+10/3/25, 21:58 - Kenko Eventos: Muchas gracias
+11/3/25, 12:46 - Kenko Eventos: Hola, es que cuando hice la compra de las boletas registré mal el correo y por lo tanto no me han llegado, para cambiar porfavor el correo con el que me registré en la plataforma para que me puedan llegar las entradas porfavor
+11/3/25, 12:46 - Kenko Eventos: El correo MALO fue este: Jaidercamiloao@icloud.com
+
+El correo NUEVO es: jaider.agudelo887@pascualbravo.edu.co
+11/3/25, 12:46 - Kenko Eventos: Pascualbravo todo seguido
+11/3/25, 12:46 - Kenko Eventos: Igual en la plataforma me registré con este mismo número de teléfono que es: 624571318
+11/3/25, 12:46 - Kenko Eventos: Así amigo? Al igual ayer ya me habías enviado un mensaje que te habían supuestamente respondido ellos
+11/3/25, 12:46 - Kenko Eventos: <Multimedia omitido>
+11/3/25, 12:46 - Kenko Eventos: Hola tenemos el problema de ayer
+11/3/25, 12:50 - Clara Premiumguest: Buenas! lo revisamos
+11/3/25, 12:52 - Clara Premiumguest: Este correo está bien? jaider.agudelo887@pascualbravo.edu.co de primeras le falta el .com, no sé si habrá algún otro fallo
+11/3/25, 13:02 - Kenko Eventos: Dile que es pascualbravo seguido no con el - que sale ahí
+11/3/25, 13:04 - Clara Premiumguest: En este correo no hay ningún - jaider.agudelo887@pascualbravo.edu.co 😅
+11/3/25, 13:06 - Clara Premiumguest: Primero se tiene que asegurar de que el correo que os dice es correcto, en este caso, ya no sería jaider.agudelo887@pascualbravo.edu.co  sino que supongo que acabará en .com siendo jaider.agudelo887@pascualbravo.edu.com ¿habría algo más que modificar o este es el definitivo? Si el correo no está correcto no le van a llegar las entradas
+11/3/25, 13:09 - Kenko Eventos: <Multimedia omitido>
+11/3/25, 13:17 - Clara Premiumguest: Okey, se las reenviamos a ese correo
+11/3/25, 13:18 - Kenko Eventos: Oki
+11/3/25, 13:20 - Clara Premiumguest: listo!
+13/3/25, 15:25 - Kenko Eventos: Hola
+13/3/25, 15:25 - Kenko Eventos: Tenemos un problema con una tiketes de Valencia que compraron pero no llegaron al correo
+13/3/25, 15:25 - Kenko Eventos: Juan Pablo Felaifel Ortiz
+13/3/25, 15:25 - Kenko Eventos: Juanfelaifel96@gmail.com
+13/3/25, 15:25 - Kenko Eventos: Compre dos boletos para el Vallenato Fest Valencia 29 Marzo, se celebrara en Tomasa Discoteca.
+13/3/25, 15:25 - Kenko Eventos: Pero no tengo las boletas en mi correo electrónico
+13/3/25, 15:25 - Kenko Eventos: <Multimedia omitido>
+13/3/25, 15:26 - Estefania Premiumguest: Hola, lo comprobamos
+13/3/25, 15:26 - Kenko Eventos: Gracias
+13/3/25, 15:28 - Estefania Premiumguest: Se la hemos vuelto a enviar ambas entradas
+18/3/25, 12:44 - Kenko Eventos: Buenos días. Te envío mis datos para que me ayudes con als entradas. Son 8 entradas. 
+Martha Cumbicos 
+Correo:
+Marthafriends10@hotmail.con
+18/3/25, 12:44 - Kenko Eventos: <Multimedia omitido>
+18/3/25, 12:44 - Kenko Eventos: Compraron estrada por la web en Alicante y no les llega el correo ni los códigos QR
+18/3/25, 12:44 - Kenko Eventos: Hola buenas
+18/3/25, 12:45 - Clara Premiumguest: Buenas! lo revisamos
+18/3/25, 12:45 - Kenko Eventos: Graciad
+18/3/25, 12:49 - Clara Premiumguest: marthafriends10@hotmail.com este es el correo al que están asociadas las entradas
+18/3/25, 12:49 - Clara Premiumguest: Se las hemos reenviado
+18/3/25, 12:50 - Kenko Eventos: Vale gracias
+18/3/25, 12:50 - Clara Premiumguest: De nada!
+18/3/25, 19:32 - Kenko Eventos: Por favor 🙏🏻
+18/3/25, 19:32 - Kenko Eventos: Durante todo el día esperado que me envíen pero no me han enviado nada a mi correo
+Marthafriends10@hotmail.con
+18/3/25, 19:33 - Estefania Premiumguest: Hola, lo comprobamos
+18/3/25, 19:36 - Estefania Premiumguest: Reenviada las 8 entradas
+19/3/25, 18:56 - Kenko Eventos: Chaloarias13@gmail.con
+19/3/25, 18:56 - Kenko Eventos: A ve esk va a ser problema d mi correo embaírme a este
+19/3/25, 18:56 - Kenko Eventos: Hola perdona que no le llegan las entradas dice esta persona y ya está que se pone agresiva 😅
+19/3/25, 18:56 - Kenko Eventos: Me refiero a esta ... por eso me dio otro correo
+19/3/25, 18:57 - Constanza CoverExperiences: Buenas tardes! Lo revisamos
+19/3/25, 18:58 - Kenko Eventos: Gracias
+19/3/25, 19:02 - Constanza CoverExperiences: Reenviadas las 8 a Chaloarias13@gmail.com
+27/3/25, 12:08 - Beauty Experience Barcelona: Hola qué tal
+27/3/25, 12:08 - Beauty Experience Barcelona: correo: jorgefalcont@gmail.com
+27/3/25, 12:08 - Beauty Experience Barcelona: las entradas estan a tu nombre
+27/3/25, 12:08 - Beauty Experience Barcelona: Gema Nairoby Buenaventura Pelaiz
+27/3/25, 12:08 - Beauty Experience Barcelona: Llegó solo una entrada
+27/3/25, 12:08 - Beauty Experience Barcelona: Y compraron 2
+27/3/25, 12:11 - Estefania Premiumguest: Hola, lo comprobamos
+27/3/25, 12:15 - Estefania Premiumguest: Reenviadas ambas entradas!!
+28/3/25, 12:17 - Beauty Experience Barcelona: Hola buenas tardes
+28/3/25, 12:17 - Beauty Experience Barcelona: <Multimedia omitido>
+28/3/25, 12:17 - Beauty Experience Barcelona: Es esto
+28/3/25, 12:18 - Beauty Experience Barcelona: <Multimedia omitido>
+28/3/25, 12:18 - Beauty Experience Barcelona: <Multimedia omitido>
+28/3/25, 12:18 - Beauty Experience Barcelona: <Multimedia omitido>
+28/3/25, 12:19 - Beauty Experience Barcelona: ‎Kik.vcf (archivo adjunto)
+28/3/25, 12:19 - Beauty Experience Barcelona: Porfavor le pueden meter al grupo
+28/3/25, 12:19 - Beauty Experience Barcelona: Él estaba llevando la parte de los accesos en puerta
+28/3/25, 13:18 - Andrea Premiumguest: Buenas!! Lo puedes agregar tu misma, ya que eres admin del grupo
+28/3/25, 13:18 - ‎Kenko Eventos añadió a +34 601 18 83 49.
+28/3/25, 13:19 - Andrea Premiumguest: Lo comprobamos
+28/3/25, 13:19 - Kenko Eventos: Kike
+28/3/25, 14:06 - Andrea Premiumguest: En principio revisando la app y el conteo, aparece todo de forma correcta. Quiźas cuando ingresaron no se habría actualizado correctamente este valor por algún motivo, o ingresaron en otro evento a escanear? Si teneis alguna imagen lo podemos verificar mejor, que ahora mismo no logramos reproducir este caso en la app.
+
+Confirmar que esta todo correcto y podeis comprobarlo, cualquier cosa nos decis!
+28/3/25, 14:06 - +34 601 18 83 49: Hola voy a comprobar de nuevo
+28/3/25, 14:07 - +34 601 18 83 49: <Multimedia omitido>
+28/3/25, 14:07 - +34 601 18 83 49: Me sale esto
+28/3/25, 14:08 - +34 601 18 83 49: Y ayer salía de forma correcta las vendidas online que son 329 en total
+28/3/25, 14:08 - Andrea Premiumguest: si para el evento de hoy, esto seria lo correcto. Asi deben aparecer
+28/3/25, 14:08 - Andrea Premiumguest: Son 329 pero solo de Entradas tipo Palco
+28/3/25, 14:09 - +34 601 18 83 49: 190 general
+94 vip
+16 super
+Palco 29
+28/3/25, 14:09 - +34 601 18 83 49: La suma de esto es 329
+28/3/25, 14:09 - +34 601 18 83 49: Lo anoté ayer
+28/3/25, 14:09 - +34 601 18 83 49: Por eso digo que no es correcto porque sale como vendido
+28/3/25, 14:11 - Kenko Eventos: <Multimedia omitido>
+28/3/25, 14:11 - Kenko Eventos: En las primeras ciudades sale 1500 y algo
+28/3/25, 14:11 - Kenko Eventos: No se habilitó tantas entradas
+28/3/25, 14:11 - +34 601 18 83 49: Creo que el agregar las entradas físicas es el error porque tendrían que estar en el lado izquierdo
+28/3/25, 14:11 - +34 601 18 83 49: Y no en el lado de vendidas
+28/3/25, 14:11 - Andrea Premiumguest: Vale, estoy revisando, Es que en ese total se esta contabilizando unos tickets añadidos para venta física
+28/3/25, 14:11 - +34 601 18 83 49: Correcto
+28/3/25, 14:12 - +34 601 18 83 49: Deberían estar cargadas al lado izquierdo
+28/3/25, 14:12 - +34 601 18 83 49: Creo
+28/3/25, 14:16 - Andrea Premiumguest: <Multimedia omitido>
+28/3/25, 14:16 - +34 601 18 83 49: Ok
+28/3/25, 14:17 - Andrea Premiumguest: Para la próxima oportunidad podríamos crearlas en un servicio oculto a parte para evitar confusiones, pero que igualmente podais escanearlas con la app
+28/3/25, 15:35 - +34 601 18 83 49: Hola
+28/3/25, 15:35 - +34 601 18 83 49: Perdón encontré la manera en la cual se importaba antes las físicas para poder hacer el control
+28/3/25, 15:35 - +34 601 18 83 49: A ver si lo pueden poner así como la foto que mandó
+28/3/25, 15:36 - +34 601 18 83 49: <Multimedia omitido>
+28/3/25, 15:36 - +34 601 18 83 49: Esta sería la manera correcta que tendría que salir porfavor
+28/3/25, 15:37 - +34 601 18 83 49: Las entradas físicas tienen que salir reflejadas como importacion
+28/3/25, 15:43 - Estefania Premiumguest: De acuerdo, par ala próxima vez como dice mi compañera las crearemos como importación , de todas formas, las pueden escanear de manera correcta
+28/3/25, 19:00 - Kenko Eventos: <Multimedia omitido>
+28/3/25, 19:00 - Kenko Eventos: <Multimedia omitido>
+28/3/25, 19:00 - Kenko Eventos: Mi nombre es Maribel Azucena Yagual Gómez
+28/3/25, 19:00 - Kenko Eventos: Mi correo electrónico 
+estifh101314@gmail.com 
+O también la podrías enviar a este mari19114@hotmail.com 
+Estaré pendiente
+28/3/25, 19:00 - Kenko Eventos: Compro las entradas y no les llego al correo
+28/3/25, 19:03 - Estefania Premiumguest: Hola, lo comprobamos
+28/3/25, 19:04 - Estefania Premiumguest: Se las hemos enviado a  ambos emails por si acaso
+28/3/25, 19:05 - Kenko Eventos: Gracias
+28/3/25, 23:55 - +34 601 18 83 49: <Multimedia omitido>
+28/3/25, 23:56 - +34 601 18 83 49: Hola de este localizador no les llegó el  QR
+28/3/25, 23:56 - +34 601 18 83 49: A ver si pueden ayudar porfa
+29/3/25, 0:18 - Andrea Premiumguest: Hola! Lo revisamos
+29/3/25, 0:22 - Andrea Premiumguest: Tenéis el nombre o correo del cliente?
+29/3/25, 0:57 - +34 601 18 83 49: Hola perdona ya lo solucionaron
+29/3/25, 0:57 - +34 601 18 83 49: Gracias
+29/3/25, 0:59 - Andrea Premiumguest: Vale genial!
+29/3/25, 3:23 - +34 601 18 83 49: Hola aún están disponibles para una consulta?
+29/3/25, 10:51 - Andrea Premiumguest: Buenos días! Si, que dudas tienes? <Se editó este mensaje.>
+29/3/25, 12:12 - +34 601 18 83 49: Hola necesitaría un reporte de las ticketeras del evento de Madrid , de las ventas detalladas . Que no sea un mensaje de texto porfavor gracias
+29/3/25, 12:33 - Andrea Premiumguest: <Multimedia omitido>
+29/3/25, 12:34 - +34 601 18 83 49: Esto donde lo tendría que hacer
+29/3/25, 12:34 - +34 601 18 83 49: Yo solo tengo acceso a la app de control
+29/3/25, 12:34 - Andrea Premiumguest: <Multimedia omitido>
+29/3/25, 12:34 - Andrea Premiumguest: Aqui os lo facilito
+29/3/25, 12:35 - Andrea Premiumguest: ya me confirmas si ese documento te sirve!
+29/3/25, 12:37 - +34 601 18 83 49: Hola necesito por ejemplo : 
+Generales 10
+Vip 20
+Super 20
+
+De cada ticketera
+29/3/25, 12:37 - +34 601 18 83 49: Habría algún documento así?
+29/3/25, 12:37 - +34 601 18 83 49: Que me podrían facilitar
+29/3/25, 12:41 - Andrea Premiumguest: En el documento que te he enviado podeis ver el total de cada tipo de entrada
+29/3/25, 12:41 - Andrea Premiumguest: El de ayer de madrid lo he enviado aqui resumido <Se editó este mensaje.>
+31/3/25, 17:54 - +34 601 18 83 49: Buenas tardes: me podrían ayudar con resporte de las ticketeras del evento del día 28 Madrid.
+Donde conste las entradas vendidas online por categoría y también y de las personas que ingresaron, en este caso si es posible cuantas fueron por compra online y físicas gracias
+31/3/25, 17:56 - +34 601 18 83 49: El segundo favor sería del evento del día sábado 29 València ; un reporte de las personas que entraron por entradas físicas solo eso , gracias de antemano ✌🏽
+31/3/25, 18:08 - Luis Premiumguest: Buenas tardes! Comprobamos el informe que necesitas y os lo envíamos
+31/3/25, 19:51 - Luis Premiumguest: <Multimedia omitido>
+31/3/25, 19:52 - Luis Premiumguest: Si tenéis dudas con los datos nos podéis preguntar
+31/3/25, 19:59 - Luis Premiumguest: <Multimedia omitido>
+1/4/25, 9:33 - Kenko Eventos: Una pregunta ..
+1/4/25, 9:33 - Kenko Eventos: Nos está escribiendo ..
+1/4/25, 9:34 - Kenko Eventos: Los del sgae  pidiendo imforme de Canarias  de las venta de entradas y cuantas entradas están a la venta y demas
+1/4/25, 9:34 - Kenko Eventos: Si le damos datos ellos pueden meterse a la tiketera y eso ?
+1/4/25, 9:34 - Kenko Eventos: De momento solo piden el evento de Canarias
+1/4/25, 9:37 - Kenko Eventos: Con quien podría comunicarme para que me oriente porfa
+1/4/25, 9:41 - Andrea Premiumguest: Buenas! Si, podriamos darle acceso a esos eventos únicamente. Indicarnos un correo y los registramos
+1/4/25, 9:42 - Andrea Premiumguest: Nos tendrían que confirman a cuales eventos quieres que tengan acceso
+1/4/25, 9:42 - Andrea Premiumguest: y tipo de permisos. Solo mirar ventas? Sin modificar nada?
+1/4/25, 9:42 - Kenko Eventos: Hola
+1/4/25, 9:42 - Kenko Eventos: Puedo llamar a alguien para asesorarme
+1/4/25, 9:45 - Andrea Premiumguest: Si, me podeis llamar
+1/4/25, 9:46 - Beauty Experience Barcelona: <Multimedia omitido>
+1/4/25, 9:50 - Andrea Premiumguest: Consulto con el equipo sobre el tema y os confirmamos
+1/4/25, 15:33 - Kenko Eventos: Hola
+1/4/25, 15:34 - Kenko Eventos: Quien pueda informar por aqui si es así? Alguien pueda solucionar estas dudas porfavor
+1/4/25, 15:52 - Andrea Premiumguest: Buenas!! Con respecto a esta duda, es lo que te he comentado previamente en privado. 
+
+Debéis consultar con vuestro gestor o asesor si estáis obligados o no a darles acceso a esa información. Nosotros no podemos asegurarles si deben o no deben presentarlo a sgae.
+
+En caso de que tengais que compartirles esa información, podeis o descargar el documento con el resumen, enviarles un pantallazo de la tabla, o le podemos dar acceso únicamente para mirar los eventos que nos indiquen
+2/4/25, 10:24 - Kenko Eventos: Hola
+2/4/25, 10:24 - Kenko Eventos: Buenas
+2/4/25, 10:30 - Andrea Premiumguest: Buenas! Necesitais ayuda?!
+2/4/25, 10:35 - Kenko Eventos: Hola si con respecto a la ciudad de Valencia
+2/4/25, 10:35 - Kenko Eventos: Ahora les escribo ed por unas entrada físicas que teníamos y tendríamos que escanear y por el apuro no lo hicimos bien ...
+2/4/25, 10:56 - Andrea Premiumguest: Vale, sin problema. Nos indicas por aquí las entradas y te ayudamos
+2/4/25, 10:59 - Kenko Eventos: Si porfa ta te daremos la enumeracion
+2/4/25, 13:48 - Kenko Eventos: <Multimedia omitido>
+2/4/25, 13:48 - Kenko Eventos: Duvan Darío Henao Gonzalez
+2/4/25, 13:48 - Kenko Eventos: 1 persona
+2/4/25, 13:48 - Kenko Eventos: ddhenaogonzalez03@gmail.com
+2/4/25, 14:02 - Andrea Premiumguest: Buenas! Que necesitais que hagamos con estos datos?
+2/4/25, 14:02 - Andrea Premiumguest: No han recibido las entradas?
+2/4/25, 14:06 - +34 601 18 83 49: Eso
+2/4/25, 14:12 - Andrea Premiumguest: Entrada reenviada!
+2/4/25, 14:24 - Kenko Eventos: Gracias
+2/4/25, 14:32 - Andrea Premiumguest: De nada!
+2/4/25, 23:11 - Beauty Experience Barcelona: Hola buenas tardes con quien me puedo comunicar que lleve contabilidad
+2/4/25, 23:11 - Beauty Experience Barcelona: O a qué correo ?
+2/4/25, 23:13 - Luis Premiumguest: Buenas! Puedes escribir a adminsupportevents@covermanager.com
+3/4/25, 14:42 - Kenko Eventos: <Multimedia omitido>
+3/4/25, 14:42 - Kenko Eventos: <Multimedia omitido>
+3/4/25, 14:42 - Kenko Eventos: Yeritza Paola Gómez Acevedo 
+Yeritzag98@gmail.com
+3/4/25, 14:42 - Kenko Eventos: Hola que borraron el correo si lo pueden volver a enviar porfavor
+3/4/25, 14:49 - Constanza CoverExperiences: Buenas tardes! Reenviada al correo
+3/4/25, 14:50 - Kenko Eventos: Gracias
+4/4/25, 14:05 - Kenko Eventos: <Multimedia omitido>
+4/4/25, 14:05 - Kenko Eventos: gencylorena13@gmail.com
+4/4/25, 14:05 - Kenko Eventos: 1 vip de Sevilla y no llego el código al correo
+4/4/25, 14:05 - Clara Premiumguest: Buenas! lo revisamos
+4/4/25, 14:11 - Clara Premiumguest: Entrada reenviada!
+4/4/25, 14:21 - Kenko Eventos: Gracias
+4/4/25, 14:22 - Clara Premiumguest: De nada!
+5/4/25, 0:41 - +34 601 18 83 49: En este momento atienden incidencias
+5/4/25, 0:42 - Constanza CoverExperiences: Buenas noches! Indícanos que necesitas
+5/4/25, 0:43 - +34 601 18 83 49: Ya lo encontré gracias
+5/4/25, 0:43 - Constanza CoverExperiences: de acuerdo, de nada :)
+5/4/25, 0:43 - +34 601 18 83 49: Borraron el correo
+5/4/25, 0:44 - Constanza CoverExperiences: ¿cómo?
+5/4/25, 2:07 - +34 601 18 83 49: Hola podrían reenviar unos Qr a este correo
+5/4/25, 2:08 - +34 601 18 83 49: Angeligar2112@gmail.com
+5/4/25, 2:08 - +34 601 18 83 49: Gracias
+5/4/25, 2:08 - +34 601 18 83 49: <Multimedia omitido>
+5/4/25, 2:09 - ‎Ivanna Viejo salió del grupo.
+5/4/25, 2:13 - Constanza CoverExperiences: Hola! Reenviados ambos, había añadido mal el correo
+5/4/25, 2:14 - +34 601 18 83 49: Ok gracias
+6/4/25, 17:24 - +34 601 18 83 49: Hola necesito saber
+6/4/25, 17:25 - +34 601 18 83 49: La venta de corte inglés 
+De gran canaria por favor
+6/4/25, 17:25 - +34 601 18 83 49: Cuantas generales vip y 
+Palco se vendieron gracias
+6/4/25, 17:26 - Constanza CoverExperiences: hola, buenas tardes! Indícanos un correo y te damos acceso a la plataforma para que puedas ver las ventas de los eventos
+6/4/25, 17:27 - +34 601 18 83 49: kike_bola8@hotmail.com
+6/4/25, 17:29 - Constanza CoverExperiences: Te tiene que haber llegado un correo para que recuperes la contraseña, ya tenías acceso
+6/4/25, 17:30 - Constanza CoverExperiences: si no la recuerdas, la debes recuperar a través del enlace que te llegará al correo
+6/4/25, 17:30 - Constanza CoverExperiences: https://app.premiumguest.com/v2/new-password-request/
+6/4/25, 17:30 - +34 601 18 83 49: Necesito
+6/4/25, 17:30 - +34 601 18 83 49: Lo del corte inglés
+6/4/25, 17:30 - +34 601 18 83 49: Que en la aplicación no sale detallado porque solo sale el total
+6/4/25, 17:31 - +34 601 18 83 49: No por categoría
+6/4/25, 17:31 - Constanza CoverExperiences: ¿qué evento?
+6/4/25, 17:31 - +34 601 18 83 49: Palmas de gran canaria
+6/4/25, 17:33 - Constanza CoverExperiences: entrada general -141
+vip- 53
+palco- 13
+6/4/25, 17:33 - Constanza CoverExperiences: desde la aplicación en entradas vendidas puedes filtrar por tipo de ticket y allí te indica la cantidad vendida de cada uno
+6/4/25, 17:34 - +34 601 18 83 49: Perdona
+6/4/25, 17:34 - +34 601 18 83 49: Esto es de la ticketera de Premiumguest
+6/4/25, 17:34 - +34 601 18 83 49: Que si lo puedo ver
+6/4/25, 17:34 - +34 601 18 83 49: <Multimedia omitido>
+6/4/25, 17:35 - +34 601 18 83 49: Pero del corte inglés no se puede en la app
+6/4/25, 17:35 - +34 601 18 83 49: <Multimedia omitido>
+6/4/25, 17:35 - +34 601 18 83 49: Solo da el total
+6/4/25, 17:35 - +34 601 18 83 49: O el tipo de entrada
+6/4/25, 17:35 - Constanza CoverExperiences: no se a que te refieres con corte inglés
+6/4/25, 17:35 - Constanza CoverExperiences: esa es la aplicación de escaneo
+6/4/25, 17:35 - +34 601 18 83 49: La ticketera del corte inglés
+6/4/25, 17:36 - Constanza CoverExperiences: para ver el detalle tienes que ingresar en la plataforma: https://app.premiumguest.com/v2/home-login/
+6/4/25, 17:36 - Constanza CoverExperiences: allí puedes filtrar por tipo de entrada
+6/4/25, 17:36 - +34 601 18 83 49: Perdona
+6/4/25, 17:36 - +34 601 18 83 49: Eso es de premiunguest
+6/4/25, 17:36 - +34 601 18 83 49: Esto
+6/4/25, 17:37 - +34 601 18 83 49: Necesito lo de la venta online del corte inglés
+6/4/25, 17:37 - Constanza CoverExperiences: nosotros desde coverexperiences puedes ver las ventas desde la app de premiumguest que te he indicado <Se editó este mensaje.>
+6/4/25, 17:38 - +34 601 18 83 49: Correcto eso si lo veo
+6/4/25, 17:38 - +34 601 18 83 49: Pero la venta online del corte inglés no lo puedo ver por categoría solo el total
+6/4/25, 17:38 - +34 601 18 83 49: Qué es esto
+6/4/25, 17:38 - Constanza CoverExperiences: no corresponde a nuestra plataforma
+6/4/25, 17:39 - Constanza CoverExperiences: ¿Qué aplicación es?
+6/4/25, 17:39 - +34 601 18 83 49: Onebox
+6/4/25, 17:44 - Constanza CoverExperiences: no sabemos como es la configuración en esa aplicación
+6/4/25, 19:18 - Beauty Experience Barcelona: Hola es correcto el correo? Da error
+6/4/25, 19:21 - Constanza CoverExperiences: Mañana mi compañera @⁨Sonia García Premiumguest⁩ te confirma a que correo puedes contactarte
+7/4/25, 9:41 - Sonia García Premiumguest: Hola si, es correcto el correo de adminsupportevents@covermanager.com
+7/4/25, 14:31 - Kenko Eventos: <Multimedia omitido>
+7/4/25, 14:31 - Kenko Eventos: juliethpaola18nicile@gmail.com
+7/4/25, 14:32 - Estefania Premiumguest: Hola, lo comprobamos
+7/4/25, 14:32 - Estefania Premiumguest: Con ese email  no nos aparece nada,
+7/4/25, 14:33 - Estefania Premiumguest: Le enviamos un email para solicitar los datos que necesitamos.
+7/4/25, 14:34 - Estefania Premiumguest: Enviado!7
+7/4/25, 14:34 - Kenko Eventos: Vale muchas gracias
+7/4/25, 14:34 - Estefania Premiumguest: Nada, un placer 🥰🥰
+7/4/25, 14:54 - Kenko Eventos: juliethpaola18nicile@gmail.com
+7/4/25, 14:55 - Kenko Eventos: Porfa mandarlo esta muy pesada
+7/4/25, 15:00 - Estefania Premiumguest: <Multimedia omitido>
+7/4/25, 15:38 - Kenko Eventos: josecarloslanzas@gmail.com
+7/4/25, 15:38 - Kenko Eventos: Aquí mandenlo porfa
+7/4/25, 15:39 - Estefania Premiumguest: De acuerdo
+7/4/25, 15:39 - Kenko Eventos: Gracias
+7/4/25, 15:39 - Estefania Premiumguest: Listo ,enviado. De nada :) <Se editó este mensaje.>
+8/4/25, 15:12 - Estefania Premiumguest: Hola, ya le hemos reenviado su entrada
+8/4/25, 15:38 - Kenko Eventos: Esta que me hace un problema esa señora
+8/4/25, 15:38 - Kenko Eventos: 😅😅
+8/4/25, 15:39 - Estefania Premiumguest: No te preocupes, todo solucionado ☺️
+8/4/25, 15:40 - Kenko Eventos: Gracias
+8/4/25, 15:42 - Estefania Premiumguest: nada, un placer 🥰🥰
+20/5/25, 18:11 - Kenko Eventos: Hola buenas
+20/5/25, 18:11 - Kenko Eventos: Una pregunta
+20/5/25, 18:12 - Kenko Eventos: Para eventos en Italia y femas tienen contactos de alguna tiketera allí?
+20/5/25, 18:13 - Estefania Premiumguest: Hola, podemos si lo desea poner la web que este en italiano si lo necesitáis, para que publiquéis los eventos.
+20/5/25, 18:13 - Kenko Eventos: Me comentan en Italia que no aceptan tiketera de España
+20/5/25, 18:14 - Estefania Premiumguest: Pues sintiéndolo mucho no conocemos ticketera que sean de allí
+20/5/25, 18:17 - Kenko Eventos: Umm vale muchas gracias
+20/5/25, 18:18 - Estefania Premiumguest: un placer!
+9/7/25, 14:12 - Kenko Eventos: Le dijeron confirmara el correo y dice no le han llegado las entradas
+9/7/25, 14:12 - Kenko Eventos: A nombre de Johan Fernando Hernández Bernal 
+6 entradas super VIP
+9/7/25, 14:12 - Andrea Premiumguest: Lo revisamos
+9/7/25, 14:13 - Andrea Premiumguest: En que evento seria?
+9/7/25, 14:21 - Kenko Eventos: En el de mallorca nelson velasquez
+9/7/25, 14:26 - Constanza CoverExperiences: Lo miramos
+9/7/25, 14:26 - ‎Estefania Premiumguest salió del grupo.
+9/7/25, 14:40 - Constanza CoverExperiences: para el evento de Mallorca 11 octubre no hay entradas a ese nombre, ¿Cuál es el correo? puede enviarnos el justificante de pago, fecha y hs de compra, últimos 4 dígitos de la tarjeta y lo podemos revisar que ha sucedido con el pago
+25/7/25, 16:20 - Beauty Experience Barcelona: Hola buenas tardes cuál es el correo del departamento de facturación
+25/7/25, 16:22 - Alex Premiumguest: Hola! Os dejo el correo del equipo de administración:
+25/7/25, 16:22 - Alex Premiumguest: adminevents@covermanager.com
+2/8/25, 17:14 - Kenko Eventos: Silvana Valencia Ramírez
+Tel:624929901 
+ramirezvalenciasil18@gmail.com
+Número de tarjeta:5591840143817693
+2/8/25, 17:14 - Kenko Eventos: Hola lo que pasa que esta señorita compró para Málaga... pero ella es de mallorca se confundió si pueden cambiarlas para la presentación. De mallorca ?
+2/8/25, 17:21 - Clara Premiumguest: Buenas! el lunes le podemos enviar los tickets correctos y cancelamos los que tiene
+2/8/25, 17:32 - Kenko Eventos: Gracias
+2/8/25, 17:39 - Clara Premiumguest: Un placer! os confirmamos a primera hora
+4/8/25, 17:02 - Clara Premiumguest: Buenas! ya está el cambio gestionado
+4/8/25, 17:41 - Kenko Eventos: Gracias !!!!!
+4/8/25, 17:42 - Clara Premiumguest: De nada!
+22/8/25, 15:00 - ‎Alex Premiumguest añadió a Ramón.
+3/9/25, 13:10 - Kenko Eventos: Jennifer navarro
+3/9/25, 13:10 - Kenko Eventos: <Multimedia omitido>
+3/9/25, 13:10 - Kenko Eventos: Hola buenas compraron 4 vip y sale en la pantalla entrada general
+3/9/25, 13:10 - Kenko Eventos: Podrían revisar porfa
+3/9/25, 13:16 - Constanza CoverExperiences: Buenos días, no parece corresponder a nuestra plataforma ese pantallazo
+3/9/25, 13:17 - Constanza CoverExperiences: Si tienes el correo confirmamos si ha realizado alguna compra a través de la plataforma, con este: yirleny170308@gmail.com no hay nada registrado
+3/9/25, 13:19 - Kenko Eventos: Pregunto al cliente
+3/9/25, 13:21 - Constanza CoverExperiences: de acuerdo
+9/9/25, 14:09 - Kenko Eventos: <Multimedia omitido>
+9/9/25, 14:09 - Kenko Eventos: Mi nombre es Karen Lorena aroca Montaño
+9/9/25, 14:09 - Kenko Eventos: El correo es: kalora79@gmail.com
+9/9/25, 14:09 - Kenko Eventos: Hola perdonen
+9/9/25, 14:09 - Kenko Eventos: Esta chica compró 3 entradas para Málaga y ella quería para Mallorca si le pueden cambiar
+9/9/25, 14:12 - Constanza CoverExperiences: Hola! Si, gestionamos el cambio de los 3 tickets
+9/9/25, 14:14 - Kenko Eventos: Gracias
+9/9/25, 14:16 - Constanza CoverExperiences: Listo, ya hemos cancelado las de Málaga y le enviamos las 3 nuevas entradas de Mallorca
+9/9/25, 14:17 - Kenko Eventos: Gracias
+9/9/25, 14:18 - Constanza CoverExperiences: de nada, un placer!
+9/9/25, 15:37 - Kenko Eventos: 
+9/9/25, 15:37 - Kenko Eventos: Evelin García reserva 739933
+9/9/25, 15:37 - Kenko Eventos: Enyelleo@hotmail.com
+9/9/25, 15:37 - Kenko Eventos: <Multimedia omitido>
+9/9/25, 15:37 - Kenko Eventos: <Multimedia omitido>
+9/9/25, 15:38 - Kenko Eventos: Hola otro problema igual disculpen
+9/9/25, 16:08 - Ramón: Buenas! Con ese mail vemos que tiene 3 entradas para Málaga. ¿Las cambiamos para Mallorca?
+9/9/25, 16:08 - Kenko Eventos: Si porfavor
+9/9/25, 16:08 - Ramón: Ok, lo vamos gestionando
+9/9/25, 16:09 - Kenko Eventos: Gracias
+9/9/25, 16:16 - Ramón: ✅ Gestionado el cambio, entradas correctas enviadas!
+9/9/25, 16:19 - Kenko Eventos: Gracias
+9/9/25, 16:19 - Ramón: A vosotros!
+9/9/25, 16:23 - Kenko Eventos: Eran 3 entradas?
+9/9/25, 16:23 - Kenko Eventos: Me dice ella
+9/9/25, 16:25 - Ramón: Sí
+9/9/25, 16:28 - Kenko Eventos: Vale gracias
+15/9/25, 15:18 - Kenko Eventos: <Multimedia omitido>
+15/9/25, 15:18 - Kenko Eventos: Buenas
+15/9/25, 15:18 - Kenko Eventos: Entradas en Málaga y dice que no le llegó el código al correo y si le cobraron
+15/9/25, 15:40 - Ramón: Buenas, lo revisamos
+15/9/25, 15:42 - Ramón: <Multimedia omitido>
+15/9/25, 15:44 - Kenko Eventos: Gracias
+15/9/25, 15:45 - Ramón: Un placer! <Se editó este mensaje.>
+4/10/25, 17:00 - ‎Kenko Eventos añadió a Carlos Calderón.
+4/10/25, 17:01 - Kenko Eventos: Hola buenas
+4/10/25, 17:02 - Ramón: Buenas tardes! Qué necesitas?
+4/10/25, 17:05 - Carlos Calderón: Hola! Buenas tardes, cómo va todo?
+
+Le pedí a Oscar que me agregara porque necesito que instalemos el pixel de Meta en la tiquetera para poder medir las conversiones
+4/10/25, 17:07 - Carlos Calderón: Pixel Kenko Eventos:
+
+ID: 530462342945945
+
+Código:
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '530462342945945');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=530462342945945&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+Token para la API:
+EAAL26SUHld0BPrYIYNZAYEMch6MPXInxj7LJUr1wxnoS9vDS0gzJXv1VhHIgZBf4vDfnXZAxH4ZCHWkHbRPSSZChw6GHEi8ZCC8k1YZBJWzyIV40Hg8aJItRUUmWdKvVuTwdRVU3EG8SRZA4XWzrwMepKVwXvvGd2Lnl3K2MUJkxIS31mfuDvsfyPWppaSagawZDZD
+4/10/25, 17:08 - Carlos Calderón: Con esos 3 datos ya tendrían para ayudarnos con el tema 🙏🏻 cualquier cosa que necesiten, estoy atento. Si es importante hacerlo para poder tener un control más preciso, gracias
+4/10/25, 17:09 - Ramón: Se eliminó este mensaje.
+4/10/25, 17:11 - Ramón: Hola Carlos, lo revisamos
+4/10/25, 17:11 - Clara Premiumguest: Buenas! una consulta, actualmente tenéis este 5894271967308289
+4/10/25, 17:11 - Clara Premiumguest: Lo queréis sustituir?
+4/10/25, 17:18 - Carlos Calderón: El que tenemos en la cuenta publicitaria actual, es el que acabé de enviar. Así que si, por favor 🙏🏻
+4/10/25, 17:18 - Clara Premiumguest: Okeey!
+4/10/25, 17:20 - Clara Premiumguest: Modificado!!
+4/10/25, 17:57 - Carlos Calderón: Gracias! Top 🔥
+4/10/25, 17:58 - Clara Premiumguest: De nada!
+8/10/25, 14:15 - Kenko Eventos: <Multimedia omitido>
+8/10/25, 14:15 - Kenko Eventos: Francelis todd 
+2 personas
+8/10/25, 14:15 - Kenko Eventos: La hice el domingo el pago
+8/10/25, 14:15 - Kenko Eventos: Mi correo es toddfrancelys1004@gmail.com
+8/10/25, 14:15 - Kenko Eventos: Es el día 12 en Zaragoza
+8/10/25, 14:15 - Kenko Eventos: Hola me pueden ayudar porfa
+8/10/25, 14:16 - Clara Premiumguest: Buenas! revisamos
+8/10/25, 14:16 - Kenko Eventos: Gracias
+8/10/25, 14:17 - Clara Premiumguest: Listo, reenviadas. Colocó mal el correo
+8/10/25, 14:27 - Kenko Eventos: Gracias
+8/10/25, 14:27 - Clara Premiumguest: De nada!
+10/10/25, 10:02 - +34 601 18 83 49: Hola buenos días
+10/10/25, 10:03 - +34 601 18 83 49: Aún no se an ingresado las entradas físicas a las aplicaciones de la gira de Nelson. <Se editó este mensaje.>
+10/10/25, 10:08 - Clara Premiumguest: Buenas! te refieres al ingreso de las ventas online?
+10/10/25, 10:13 - +34 601 18 83 49: En la aplicación premiumguest <Se editó este mensaje.>
+10/10/25, 10:24 - Clara Premiumguest: A lo vendido online, si
+10/10/25, 10:25 - Clara Premiumguest: Del evento del día 4/10?
+10/10/25, 10:48 - ‎Kenko Eventos añadió a +34 645 41 65 88.
+10/10/25, 10:48 - Kenko Eventos: Hola
+10/10/25, 10:49 - +34 601 18 83 49: Ya lo están solucionando muchas gracias
+10/10/25, 10:55 - Clara Premiumguest: Vale, cualquier cosa nos decís!
+10/10/25, 13:54 - Carlos Calderón: Hola chicos!
+10/10/25, 13:56 - Carlos Calderón: Hoy iniciamos la gira y a parte de las entradas online, tenemos las entradas físicas.  En las giras anteriores agregamos los códigos en la app de escaneo para poder centralizar todo el trabajo en la puerta y controlar bien el ingreso
+10/10/25, 13:56 - Carlos Calderón: <Multimedia omitido>
+10/10/25, 13:56 - Carlos Calderón: Quedaría algo así. Las online por un lado y las físicas que importemos por otro lado 
+10/10/25, 13:57 - Carlos Calderón: Ya tengo los códigos de las entradas físicas por cada ciudad. ¿Alguien me puede ayudar con esto?
+10/10/25, 14:33 - Constanza CoverExperiences: buenas tardes! ¿Qué necesitas? ¿subir esos códigos a nuestra plataforma para luego escanearlos?
+10/10/25, 14:34 - Carlos Calderón: Si, debemos subirlos, como se ha realizado antes para que queden así. Ya tengo los códigos en formato CVS
+10/10/25, 14:35 - +34 601 18 83 49: A la aplicación Premiumguest
+10/10/25, 14:35 - Constanza CoverExperiences: de acuerdo, envíalos por aquí o a events@covermanager.com para que lo podemos ir gestionando
+10/10/25, 14:50 - +34 645 41 65 88: Perfecto, muchas gracias, lo hemos enviado
+10/10/25, 14:58 - Constanza CoverExperiences: de acuerdo, los vamos revisando
+10/10/25, 15:53 - Carlos Calderón: Gracias! Nos confirman para que ya estemos tranquilos con el escaneo de entradas esta noche 🙏🏻
+10/10/25, 15:55 - Constanza CoverExperiences: Si, les vamos confirmando!
+10/10/25, 18:06 - Kenko Eventos: Hola no cerremos ningún punto de venta hasta el día siguiente porfa
+10/10/25, 18:06 - Kenko Eventos: Que mucha gente dice de comprar pero que le sale pa página cerrada
+10/10/25, 18:07 - Constanza CoverExperiences: Hola! revisamos los cierres
+10/10/25, 18:09 - Constanza CoverExperiences: están todos abiertos, si revisas la web se puede comprar en todos
+10/10/25, 18:09 - Constanza CoverExperiences: el de Mallorca está agotado únicamente
+10/10/25, 18:10 - +34 601 18 83 49: Se eliminó este mensaje.
+10/10/25, 18:16 - Constanza CoverExperiences: Ya están importados Málaga, Mallorca y Zaragoza
+10/10/25, 18:17 - Constanza CoverExperiences: vamos gestionando Pamplona y Asturias
+10/10/25, 19:16 - Constanza CoverExperiences: Ya tienen todos los qrs añadidos, Pamplona y Asturias también.
+10/10/25, 19:57 - +34 601 18 83 49: Muchas gracias 🙏🏽
+10/10/25, 19:57 - Constanza CoverExperiences: de nada 😊
+12/10/25, 1:02 - +34 601 18 83 49: Hola se calló la plataforma one box
+12/10/25, 1:03 - +34 601 18 83 49: <Multimedia omitido>
+12/10/25, 1:03 - +34 601 18 83 49: Solo sale esto
+12/10/25, 20:23 - +34 601 18 83 49: Hola
+12/10/25, 20:24 - +34 601 18 83 49: Necesito bloquear un talonario de entradas general
+12/10/25, 20:24 - +34 601 18 83 49: Del evento de hoy en zaragoza
+12/10/25, 20:24 - +34 601 18 83 49: De la 226 hasta la 250
+12/10/25, 20:24 - +34 601 18 83 49: Gracias estoy al pendiente
+12/10/25, 21:28 - Kenko Eventos: Hola buenas
+12/10/25, 21:28 - Kenko Eventos: Tenemos un problema con unas entradas
+12/10/25, 21:28 - Kenko Eventos: Para bloquear ?
+12/10/25, 21:33 - Carlos Calderón: <Multimedia omitido>
+12/10/25, 21:41 - Andrea Premiumguest: Hola buenas! Necesitan ayuda de nuestro lado?
+12/10/25, 21:42 - Carlos Calderón: Andrea! Si logramos identificar qué codigos se deben desactivar, nos ayudarías mucho. Es que “De la 226 hasta la 250” están numeradas en las entradas fisicas que pasamos codigos para importar. Pero estoy esperando esos números a que codigo hacen referencia, porque debemos desactivarlos
+12/10/25, 21:43 - Andrea Premiumguest: Corresponderían a las entradas General Físicas?
+12/10/25, 21:43 - Carlos Calderón: Si
+12/10/25, 21:43 - Andrea Premiumguest: Cuando dices desactivar, las podemos eliminar o colocamos como escaneadas y así no se puede utilizar
+12/10/25, 21:43 - Carlos Calderón: Si, sería así. Para que no se puedan utilizar
+12/10/25, 21:43 - Andrea Premiumguest: Vale, lo voy a revisar y les confirmo
+15/10/25, 12:07 - Kenko Eventos: Hola buenas
+15/10/25, 12:07 - Kenko Eventos: Pregunta
+15/10/25, 12:08 - Kenko Eventos: El ingreso de la tketera ?
+15/10/25, 12:08 - Kenko Eventos: Estamos esperando para pagar cosas de los conciertos siguientes
+15/10/25, 12:09 - Clara Premiumguest: Buenas! @⁨Sonia García Premiumguest⁩ puedes revisarlo?
+15/10/25, 19:10 - Kenko Eventos: Hola buenas
+15/10/25, 19:10 - Kenko Eventos: La página  no va
+15/10/25, 19:10 - Kenko Eventos: Estamos teniendo muchas ventas que no se realizan
+15/10/25, 19:10 - Kenko Eventos: No está funcionando  la tiketera porfavor
+15/10/25, 19:11 - +34 645 41 65 88: Hola buena tarde, ya me comunico por via correo
+15/10/25, 19:11 - Kenko Eventos: Eventos.kenkotickets.com
+15/10/25, 19:12 - Kenko Eventos: <Multimedia omitido>
+15/10/25, 19:12 - Kenko Eventos: Sale esto
+15/10/25, 19:13 - Ramón: Buenas equipo, están desde nuestra área de Tech solucionando el problema de la caída del servidor, en breve esperamos que quede solucionado.
+15/10/25, 19:14 - Kenko Eventos: Gracias
+15/10/25, 19:15 - Ramón: A vosotros, y disculpad las molestias
+15/10/25, 19:17 - Kenko Eventos: Ok
+15/10/25, 19:17 - Kenko Eventos: Esperemos pronto lo remedios pars seguir vendiendo gracias
+15/10/25, 19:17 - Kenko Eventos: Otra cosa el ingreso de la semana pasada ?
+16/10/25, 10:55 - Kenko Eventos: Buenos dias
+16/10/25, 10:55 - Kenko Eventos: Aún no hacen el deposito de la semana pasada
+16/10/25, 10:55 - Kenko Eventos: Tenemos que hacer pagos
+16/10/25, 10:55 - Kenko Eventos: Normalmente se hacia el pago máximo el martes después de el show porfavor
+16/10/25, 11:03 - Sonia García Premiumguest: Hola! @⁨~Oscar⁩ reviso que ha ocurrido con vuestro pago y os informo en cuanto me digan
+16/10/25, 11:08 - Kenko Eventos: Vale gracias
+16/10/25, 11:08 - Kenko Eventos: Espero sea hoy que revisen eso que el artista cada que termina cobra una parte que se le tiene
+16/10/25, 19:29 - Kenko Eventos: Buenas tardes
+16/10/25, 19:29 - Kenko Eventos: Alguien del equipo pueden llamarme?
+16/10/25, 19:29 - Kenko Eventos: Porque sigo esperando el ingreso
+16/10/25, 19:29 - Kenko Eventos: Como les digo nosotros tenenos que hacer pagos al artista
+16/10/25, 19:29 - Kenko Eventos: Y en teoría como muy tardar siempre nos depositan los dos días después del evento
+16/10/25, 19:32 - Luis Premiumguest: Buenas! Actualmente nuestra compañera @⁨Sonia García Premiumguest⁩ y el equipo de administración no está disponible
+16/10/25, 19:32 - Luis Premiumguest: Nosotros no tenemos acceso a los datos del pago, por lo que no os podemos ayudar
+16/10/25, 19:33 - Luis Premiumguest: Si tenéis disponibilidad mañana nuestra compañera en cuanto entré le pedimos que atienda vuestra petición
+16/10/25, 19:33 - Kenko Eventos: No entiendo
+16/10/25, 19:34 - Kenko Eventos: Pero si venimos reclamando eso desde ayer
+16/10/25, 19:35 - Luis Premiumguest: Mañana administración contacta con ustedes, y os comenta si ha salido el pago ya o en caso de que no se haya producido pues se realizará a la mayor brevedad posible
+16/10/25, 19:35 - Luis Premiumguest: Ahora es que administración no está disponible, y no os podemos confirmar si se ha ejecutado ya el pago, o sigue pendiente, no tenemos esa informacion
+16/10/25, 19:35 - Kenko Eventos: Ok
+16/10/25, 19:36 - Kenko Eventos: Esperamos mañana gracias
+16/10/25, 19:36 - Luis Premiumguest: Gracias a vosotros por la paciencia, mañana quedará resuelto🫶
+16/10/25, 20:08 - Kenko Eventos: Se eliminó este mensaje.
+16/10/25, 20:08 - Kenko Eventos: Se eliminó este mensaje.
+17/10/25, 9:37 - Sonia García Premiumguest: Buenos días, me comentan desde Administración que ha habido un fallo con la plataforma de facturación y solo ha salido el pago de un evento
+17/10/25, 9:38 - Sonia García Premiumguest: Me dicen que han vuelto a enviar los pagos de los otros dos y os llegará el Lunes
+17/10/25, 9:40 - Sonia García Premiumguest: Se ha abonado correctamente el de Nelson Velñasquez
+17/10/25, 9:40 - Sonia García Premiumguest: Perdonar la incidencia el Lunes teneis el resto en la cuenta bancaria
+17/10/25, 10:43 - Kenko Eventos: Buenas
+17/10/25, 10:43 - Kenko Eventos: Pueden llamarme alguien de su equipo
+17/10/25, 10:44 - Kenko Eventos: Que ya revísalos y el importe no coincide cin ninguno de los 3 eventos de la semana pasada
+17/10/25, 10:45 - Andrea Premiumguest: @⁨Sonia García Premiumguest⁩ le indicamos al equipo que se ponga en contacto contigo
+17/10/25, 10:46 - Kenko Eventos: El problema que tenemos que pagar  al artista
+17/10/25, 11:59 - Sonia García Premiumguest: Hola! me han comentado que llaméis a este número de teléfono 694216087 que es el de administración
+17/10/25, 11:59 - Sonia García Premiumguest: Pero en principio os va a llegar el dinero el lunes a primera hora, sentimos las molestias
+20/10/25, 16:48 - Kenko Eventos: Hola buenas
+20/10/25, 16:48 - Kenko Eventos: Alguien que pueda responder ?
+20/10/25, 16:48 - Kenko Eventos: No hemos recibido aún la transferencia
+20/10/25, 17:13 - Andrea Premiumguest: Buenas! Lo revisamos @⁨Sonia García Premiumguest⁩
+20/10/25, 17:49 - Sonia García Premiumguest: Buenas tardes, Os adjuntamos justificante de pago
+20/10/25, 18:28 - Sonia García Premiumguest: <Multimedia omitido>
+20/10/25, 18:28 - Sonia García Premiumguest: Me informan que el resto de la 41 lo firman mañana por la mañana y también lo de este fin de semana pasado, por lo que el miércoles seguro que lo teneis todo completo en vuestra entidad
+25/10/25, 23:36 - +34 601 18 83 49: <Multimedia omitido>
+25/10/25, 23:37 - +34 601 18 83 49: Necesito reenvíen el codigo
+25/10/25, 23:37 - +34 601 18 83 49: Porfavor
+25/10/25, 23:38 - Alex Premiumguest: hola! lo gestionamos
+25/10/25, 23:40 - Alex Premiumguest: listo
+25/10/25, 23:41 - +34 601 18 83 49: Gracias ya está
+26/10/25, 22:20 - +34 601 18 83 49: <Multimedia omitido>
+26/10/25, 22:20 - +34 601 18 83 49: Buenas noches les falta un QR
+26/10/25, 22:20 - +34 601 18 83 49: Podrían reenviarlas porfavor
+26/10/25, 22:23 - Alex Premiumguest: hola! me podéis facilitar el email y nombre?
+26/10/25, 22:25 - +34 601 18 83 49: Asturblanquita@gmail.com
+26/10/25, 22:25 - +34 601 18 83 49: Blanca Liliana rivera diaz
+26/10/25, 22:27 - +34 601 18 83 49: Ya está solucionado muchas gracias
+26/10/25, 22:27 - +34 601 18 83 49: 🙌🏽
+26/10/25, 22:27 - Alex Premiumguest: ya he visto que han sido escaneadas, justo os iba a avisar
+31/10/25, 14:44 - Constanza CoverExperiences: Hola,
+como ya os informamos hace unas semanas vía email desde el Departamento de Administración, os recordamos que por un cambio de normativa y con efectos a partir del 1 de noviembre de 2025, implementaremos un nuevo modelo operativo en la gestión de cobros y facturación de las entradas vendidas a través de nuestra plataforma. 
+Cualquier duda podéis contactar con el Dept. de Administración: adminsupportevents@covermanager.com
+31/10/25, 14:44 - Constanza CoverExperiences: <Multimedia omitido>
+21/11/25, 11:49 - Kenko Eventos: Hola buenas
+21/11/25, 11:49 - Kenko Eventos: Con quien nos podemos comunicar directo sobre contabilidad y demás?
+21/11/25, 11:51 - Constanza CoverExperiences: Hola, buenos días! Puedes contactar con administración al correo adminsupportevents@covermanager.com
+21/11/25, 11:52 - Kenko Eventos: Ok vale gracias
+21/11/25, 11:52 - Kenko Eventos: Pero a alguien que se le pueda llamar ?
+21/11/25, 11:52 - Constanza CoverExperiences: @⁨Sonia García Premiumguest⁩ les indica!
+21/11/25, 11:53 - Kenko Eventos: Ok gracias
+26/11/25, 11:48 - Carlos Calderón: Hola equipo! Debemos hacer un análisis de las ventas desde que iniciamos con esta tiquetera, queremos exportarlo desde la aplicación pero nos da error. Alguien puede ayudarnos a exportar un informe con todo el historial de ventas desde el primer evento?
+26/11/25, 11:54 - Constanza CoverExperiences: Buenos días! Lo revisamos
+26/11/25, 11:56 - Carlos Calderón: Gracias
+26/11/25, 12:55 - Constanza CoverExperiences: Desde su perfil en informes > ingresos por eventos, pueden filtrar por fechas y luego filtrar por negocio y ya finalmente exportar ese documento. ¿Eso no les ha permitido? ¿nos pueden indicar el error que les sale para revisarlo?
+26/11/25, 12:58 - Constanza CoverExperiences: <Multimedia omitido>
+26/11/25, 13:04 - Carlos Calderón: Se eliminó este mensaje.
+26/11/25, 13:04 - Carlos Calderón: Gracias
+26/11/25, 13:05 - Carlos Calderón: 🙌🏻 revisaremos así a ver
+26/11/25, 13:05 - Constanza CoverExperiences: de acuerdo! cualquier cosa nos avisan
+6/12/25, 19:39 - Kenko Eventos: <Multimedia omitido>
+6/12/25, 19:39 - Kenko Eventos: Hola aquí sale dirección Gerona?
+6/12/25, 19:39 - Kenko Eventos: Con código postal
+6/12/25, 19:51 - Clara Premiumguest: Buenas! ¿qué evento es?
+6/12/25, 19:52 - Clara Premiumguest: Perdona, el evento del 31
+6/12/25, 19:52 - Clara Premiumguest: La ubicación que tiene el evento es: LA OFICINA BARCELONA
+
+Parada de metro Clot L1 - Carrer de la Verneda, 2, 17160 Anglès, Girona, España
+6/12/25, 19:54 - Clara Premiumguest: Hay que modificarla?
+6/12/25, 19:56 - Kenko Eventos: Parada metro clot 
+Carrer de la vereda 2 
+Barcelona
+6/12/25, 20:00 - Clara Premiumguest: Modificado
+6/12/25, 20:01 - Kenko Eventos: Gracias
+6/12/25, 20:03 - Clara Premiumguest: De nada!
+31/12/25, 20:48 - Kenko Eventos: Hola buenas
+31/12/25, 20:48 - Kenko Eventos: Podríamos parar las ventas  que tenemos con ustedes que ya el bar está lleno
+31/12/25, 20:48 - Kenko Eventos: Porfa
+31/12/25, 20:49 - Ramón: Buenas!! Claro, lo reviso
+31/12/25, 20:50 - Ramón: ✅ Ambos tickets agotados
+31/12/25, 20:50 - Kenko Eventos: Vale gracias !!!!
+31/12/25, 20:50 - Kenko Eventos: Si ambos agotados
+31/12/25, 20:50 - Ramón: A vosotros!
+8/1/26, 9:56 - Kenko Eventos: Hola buenas
+8/1/26, 9:57 - Kenko Eventos: Podrían darme alguna razón.. de cuando se hará la transferencia  del evento se fin de año ?
+8/1/26, 10:20 - Andrea Premiumguest: Buenos dias! Los pagos de eventos de fin de año se estuvieron gestionando el día de ayer. Igualmente para cualquier consulta podeis contactar directamente a nuestro equipo de admin
+8/1/26, 10:20 - Andrea Premiumguest: adminevents@covermanager.com
+8/1/26, 10:20 - Kenko Eventos: Gracias
+8/1/26, 10:20 - Andrea Premiumguest: de nada!
+12/1/26, 21:31 - Kenko Eventos: Hola buenas noches
+12/1/26, 21:31 - Kenko Eventos: Tenenos algún problema con las transferencias de la ticketera ?
+12/1/26, 21:31 - Kenko Eventos: Aún no recibimos la transferencia...
+12/1/26, 21:32 - Kenko Eventos: Y claro esos pagos teníamos que hacerlos ya hace una semana
+12/1/26, 21:32 - Kenko Eventos: Porfavor si me pudieran dar alguna respuesta
+12/1/26, 21:32 - Ramón: Buenas equipo, en el día de hoy se ha terminado de abonar los eventos de nochevieja, por lo que no tienen que tardar en recibir el dinero.
+10/2/26, 13:18 - Se añadió a Alex Premiumguest, Andrea Premiumguest, Anxo, Carlos Calderón, Clara Premiumguest, Iñaki Premiumguest 🥳, Ivanna Premiumguest, Kenko Eventos, Luis Premiumguest, Ramón, Sonia García Premiumguest y +34 601 18 83 49
+30/4/26, 15:01 - Constanza CoverExperiences: 
